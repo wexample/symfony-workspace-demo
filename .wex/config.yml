@@ -1,0 +1,7 @@
+domain: symfony-workspace-demo.wex
+global:
+  name: symfony-workspace-demo
+  type: php-package
+  version: 1.0.0
+wex:
+  version: 6.0.141
