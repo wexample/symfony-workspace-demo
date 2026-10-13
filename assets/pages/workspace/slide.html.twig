@@ -1,11 +1,18 @@
 {%- extends '@front/layouts/private/layout.html.twig' -%}
 
-{#- One slide, as the centre of the editor shows it: a frame of the slide's
-    proportions, its title and its words. -#}
+{#- One slide, as the centre of the editor shows it: as wide as the room
+    allows while its proportions fit, in the middle of it. A slide is a world
+    of its own and wears the light face whatever the page around it wears. -#}
 {%- block page_body -%}
-    <div class="workspace-slide">
-        <span class="workspace-slide--position">{{ '@page::position' | trans({ '%position%': position, '%count%': count }) }}</span>
-        <h2>{{ ('@page::slide.' ~ slide ~ '.title') | trans }}</h2>
-        <p>{{ ('@page::slide.' ~ slide ~ '.body') | trans }}</p>
+    <div class="page--fill">
+        <div class="workspace-slide--room">
+            <div class="container--center">
+                <div class="workspace-slide usage-color-scheme-light">
+                    <span class="workspace-slide--position">{{ '@page::position' | trans({ '%position%': position, '%count%': count }) }}</span>
+                    <h2>{{ ('@page::slide.' ~ slide ~ '.title') | trans }}</h2>
+                    <p>{{ ('@page::slide.' ~ slide ~ '.body') | trans }}</p>
+                </div>
+            </div>
+        </div>
     </div>
 {%- endblock -%}

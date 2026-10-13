@@ -1,5 +1,5 @@
 @use '@wexample/symfony-design-system/css/shapes/zone';
-@use '@wexample/symfony-design-system/css/shapes/toolbar';
+@use '@wexample/symfony-design-system/components/zone-resizer/zone-resizer';
 
 // The rail: slides as the deck holds them, one under the other, the chosen
 // one outlined.
@@ -16,7 +16,8 @@
   aspect-ratio: 16 / 9;
   padding: var(--space-2);
   border: 0;
-  background: var(--color-surface, #fff);
+  background: var(--surface-zone);
+  color: var(--text-color-default);
   box-shadow: 0 1px 4px rgba(0, 0, 0, .2);
   outline: 3px solid transparent;
   text-align: start;
@@ -32,8 +33,4 @@
   top: var(--space-1);
   inset-inline-start: var(--space-2);
   opacity: .6;
-}
-
-.workspace-slides--stage {
-  padding: var(--space-5);
 }

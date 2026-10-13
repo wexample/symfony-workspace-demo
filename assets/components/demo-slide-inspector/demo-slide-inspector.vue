@@ -30,7 +30,7 @@ export default {
 
   computed: {
     current() {
-      return this.workspaceChannel(this.channel).id;
+      return this.workspaceSelection(this.channel)[0] ?? null;
     },
 
     index() {

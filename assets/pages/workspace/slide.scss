@@ -1,13 +1,25 @@
+@use '@wexample/symfony-design-system/css/shapes/page';
+@use '@wexample/symfony-design-system/css/shapes/container';
+
+// The room the page fills, measured so the slide can take the most of it its
+// proportions allow: the whole width, unless the height runs short first.
+.workspace-slide--room {
+  position: relative;
+  container-type: size;
+  margin: var(--space-5);
+}
+
 .workspace-slide {
   position: relative;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  box-sizing: border-box;
+  width: min(100cqw, 100cqh * 16 / 9);
   aspect-ratio: 16 / 9;
-  max-width: 60rem;
-  margin: 0 auto;
   padding: var(--space-7);
-  background: var(--color-surface, #fff);
+  background: var(--surface-zone);
+  color: var(--text-color-default);
   box-shadow: 0 2px 12px rgba(0, 0, 0, .2);
 }
 
