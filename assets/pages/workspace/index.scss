@@ -1,40 +1,9 @@
+// The page is the example, so it draws nothing of its own: what it needs is the
+// shapes its regions are made of, and the components standing in them.
+@use './layout/layout-workspace';
 @use '@wexample/symfony-design-system/css/shapes/zone';
+@use '@wexample/symfony-design-system/css/shapes/toolbar';
+@use '@wexample/symfony-design-system/components/tree/tree';
 @use '@wexample/symfony-design-system/components/zone-resizer/zone-resizer';
-
-// The rail: slides as the deck holds them, one under the other, each with its
-// number beside it, the chosen one outlined.
-.workspace-slides--rail {
-  display: flex;
-  flex-direction: column;
-  gap: var(--space-4);
-}
-
-.workspace-slides--thumb {
-  display: flex;
-  align-items: flex-start;
-  gap: var(--space-2);
-  padding: 0;
-  border: 0;
-  background: none;
-  color: var(--text-color-muted);
-  font: inherit;
-  text-align: start;
-  cursor: pointer;
-}
-
-.workspace-slides--number {
-  min-width: 1.5em;
-  text-align: end;
-}
-
-.workspace-slides--preview {
-  flex: 1;
-  aspect-ratio: 16 / 9;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, .3);
-  outline: 3px solid transparent;
-  outline-offset: 2px;
-}
-
-.workspace-slides--thumb[aria-current] .workspace-slides--preview {
-  outline-color: var(--color-selected);
-}
+@use '@wexample/symfony-design-system/components/properties/properties';
+@use '@wexample/symfony-design-system/components/marker/marker';

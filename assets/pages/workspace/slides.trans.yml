@@ -1,0 +1,35 @@
+en:
+  page_title: Slide editor
+  page_icon: ph:bold/presentation
+  slide:
+    cover:
+      title: Cover
+    agenda:
+      title: Agenda
+    figures:
+      title: Figures
+    closing:
+      title: Closing
+  inspector:
+    title: Slide
+    position: Position
+    previous: Previous
+    next: Next
+
+fr:
+  page_title: Éditeur de diapositives
+  page_icon: ph:bold/presentation
+  slide:
+    cover:
+      title: Couverture
+    agenda:
+      title: Programme
+    figures:
+      title: Chiffres
+    closing:
+      title: Conclusion
+  inspector:
+    title: Diapositive
+    position: Position
+    previous: Précédente
+    next: Suivante

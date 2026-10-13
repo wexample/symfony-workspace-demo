@@ -1,0 +1,230 @@
+en:
+  # The tree standing in every page of the section, which moves between them.
+  nav:
+    title: Layouts
+    group: Workspace
+    regions: Workspace
+    fixed: Fixed width
+    columns: Five columns
+    dashboard: Dashboard
+    slides: Slide editor
+
+ar:
+  nav:
+    title: التخطيطات
+    group: مساحة العمل
+    regions: مساحة العمل
+    fixed: عرض ثابت
+    columns: خمسة أعمدة
+    dashboard: لوحة المعلومات
+    slides: محرر الشرائح
+
+bn:
+  nav:
+    title: লেআউট
+    group: কর্মস্থল
+    regions: কর্মস্থল
+    fixed: স্থির প্রস্থ
+    columns: পাঁচটি কলাম
+    dashboard: ড্যাশবোর্ড
+    slides: স্লাইড সম্পাদক
+
+de:
+  nav:
+    title: Layouts
+    group: Arbeitsbereich
+    regions: Arbeitsbereich
+    fixed: Feste Breite
+    columns: Fünf Spalten
+    dashboard: Dashboard
+    slides: Folien-Editor
+
+es:
+  nav:
+    title: Diseños
+    group: Espacio de trabajo
+    regions: Espacio de trabajo
+    fixed: Ancho fijo
+    columns: Cinco columnas
+    dashboard: Tablero
+    slides: Editor de diapositivas
+
+fa:
+  nav:
+    title: چیدمان ها
+    group: فضای کار
+    regions: فضای کار
+    fixed: عرض ثابت
+    columns: پنج ستون
+    dashboard: داشبورد
+    slides: ویرایشگر اسلاید
+
+fi:
+  nav:
+    title: Asettelut
+    group: Työtila
+    regions: Työtila
+    fixed: Kiinteä leveys
+    columns: Viisi saraketta
+    dashboard: Ohjaamo
+    slides: Diaeditori
+
+fr:
+  nav:
+    title: Mises en page
+    group: Espace de travail
+    regions: Espace de travail
+    fixed: Largeur fixe
+    columns: Cinq colonnes
+    dashboard: Tableau de bord
+    slides: Éditeur de diapositives
+
+he:
+  nav:
+    title: פריסות
+    group: מרחב עבודה
+    regions: מרחב עבודה
+    fixed: רוחב קבוע
+    columns: חמישה עמודים
+    dashboard: לוח מחוונים
+    slides: עורך שקופיות
+
+hi:
+  nav:
+    title: लेआउट्स
+    group: कार्यक्षेत्र
+    regions: कार्यक्षेत्र
+    fixed: स्थिर चौड़ाई
+    columns: पांच कॉलम
+    dashboard: डैशबोर्ड
+    slides: स्लाइड संपादक
+
+id:
+  nav:
+    title: Tata Letak
+    group: Ruang Kerja
+    regions: Ruang Kerja
+    fixed: Lebar tetap
+    columns: Lima kolom
+    dashboard: Dasbor
+    slides: Editor slide
+
+it:
+  nav:
+    title: Layout
+    group: Spazio di lavoro
+    regions: Spazio di lavoro
+    fixed: Larghezza fissa
+    columns: Cinque colonne
+    dashboard: Cruscotto
+    slides: Editor di diapositive
+
+ja:
+  nav:
+    title: レイアウト
+    group: ワークスペース
+    regions: ワークスペース
+    fixed: 固定幅
+    columns: 5カラム
+    dashboard: ダッシュボード
+    slides: スライドエディター
+
+ko:
+  nav:
+    title: 레이아웃
+    group: 작업 공간
+    regions: 작업 공간
+    fixed: 고정 너비
+    columns: 다섯 개 열
+    dashboard: 대시보드
+    slides: 슬라이드 편집기
+
+nl:
+  nav:
+    title: Indelingen
+    group: Werkruimte
+    regions: Werkruimte
+    fixed: Vaste breedte
+    columns: Vijf kolommen
+    dashboard: Dashboard
+    slides: Dia-editor
+
+pl:
+  nav:
+    title: Układy
+    group: Obszar roboczy
+    regions: Obszar roboczy
+    fixed: Stała szerokość
+    columns: Pięć kolumn
+    dashboard: Panel sterowania
+    slides: Edytor slajdów
+
+pt_BR:
+  nav:
+    title: Layouts
+    group: Espaço de trabalho
+    regions: Espaço de trabalho
+    fixed: Largura fixa
+    columns: Cinco colunas
+    dashboard: Painel
+    slides: Editor de slides
+
+ru:
+  nav:
+    title: Макеты
+    group: Рабочая область
+    regions: Рабочая область
+    fixed: Фиксированная ширина
+    columns: Пять колонок
+    dashboard: Панель управления
+    slides: Редактор слайдов
+
+th:
+  nav:
+    title: เลย์เอาต์
+    group: พื้นที่ทำงาน
+    regions: พื้นที่ทำงาน
+    fixed: ความกว้างคงที่
+    columns: ห้าคอลัมน์
+    dashboard: แดชบอร์ด
+    slides: ตัวแก้ไขสไลด์
+
+tr:
+  nav:
+    title: Düzenler
+    group: Çalışma Alanı
+    regions: Çalışma Alanı
+    fixed: Sabit genişlik
+    columns: Beş sütun
+    dashboard: Gösterge Paneli
+    slides: Slayt düzenleyici
+
+ur:
+  nav:
+    title: لے آؤٹ
+    group: ورک اسپیس
+    regions: ورک اسپیس
+    fixed: مستحکم چوڑائی
+    columns: پانچ کالم
+    dashboard: ڈیش بورڈ
+    slides: سلائیڈ ایڈیٹر
+
+vi:
+  nav:
+    title: Bố cục
+    group: Không gian làm việc
+    regions: Không gian làm việc
+    fixed: Chiều rộng cố định
+    columns: Năm cột
+    dashboard: Bảng điều khiển
+    slides: Trình chỉnh sửa trang chiếu
+
+zh:
+  nav:
+    title: 布局
+    group: 工作区
+    regions: 工作区
+    fixed: 固定宽度
+    columns: 五列
+    dashboard: 仪表板
+    slides: 幻灯片编辑器
