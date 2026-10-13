@@ -1,8 +1,8 @@
 @use '@wexample/symfony-design-system/css/shapes/zone';
 @use '@wexample/symfony-design-system/components/zone-resizer/zone-resizer';
 
-// The rail: slides as the deck holds them, one under the other, the chosen
-// one outlined.
+// The rail: slides as the deck holds them, one under the other, each with its
+// number beside it, the chosen one outlined.
 .workspace-slides--rail {
   display: flex;
   flex-direction: column;
@@ -10,27 +10,31 @@
 }
 
 .workspace-slides--thumb {
-  position: relative;
   display: flex;
-  align-items: flex-end;
-  aspect-ratio: 16 / 9;
-  padding: var(--space-2);
+  align-items: flex-start;
+  gap: var(--space-2);
+  padding: 0;
   border: 0;
-  background: var(--surface-zone);
-  color: var(--text-color-default);
-  box-shadow: 0 1px 4px rgba(0, 0, 0, .2);
-  outline: 3px solid transparent;
+  background: none;
+  color: var(--text-color-muted);
+  font: inherit;
   text-align: start;
   cursor: pointer;
-
-  &[aria-current] {
-    outline-color: var(--color-primary, #5d9cec);
-  }
 }
 
 .workspace-slides--number {
-  position: absolute;
-  top: var(--space-1);
-  inset-inline-start: var(--space-2);
-  opacity: .6;
+  min-width: 1.5em;
+  text-align: end;
+}
+
+.workspace-slides--preview {
+  flex: 1;
+  aspect-ratio: 16 / 9;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, .3);
+  outline: 3px solid transparent;
+  outline-offset: 2px;
+}
+
+.workspace-slides--thumb[aria-current] .workspace-slides--preview {
+  outline-color: var(--color-selected);
 }

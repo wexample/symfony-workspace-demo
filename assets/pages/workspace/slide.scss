@@ -9,23 +9,9 @@
   margin: var(--space-5);
 }
 
+// Only the box the slide stands in: what is inside is its own.
 .workspace-slide {
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  box-sizing: border-box;
   width: min(100cqw, 100cqh * 16 / 9);
   aspect-ratio: 16 / 9;
-  padding: var(--space-7);
-  background: var(--surface-zone);
-  color: var(--text-color-default);
-  box-shadow: 0 2px 12px rgba(0, 0, 0, .2);
-}
-
-.workspace-slide--position {
-  position: absolute;
-  top: var(--space-3);
-  inset-inline-end: var(--space-4);
-  opacity: .6;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, .3);
 }

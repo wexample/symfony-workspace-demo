@@ -1,4 +1,5 @@
 {%- extends '@front/layouts/private/layout.html.twig' -%}
+{%- import '@WexampleSymfonyWorkspaceDemoBundle/partials/slide.html.twig' as deck -%}
 
 {%- set page_body_mode = 'wide' -%}
 
@@ -18,11 +19,12 @@
             {{ component(render_pass, '@WexampleSymfonyDesignSystemBundle/components/zone-resizer') }}
             <div class="zone zone--scrollable">
                 <div class="zone--content workspace-slides--rail">
-                    {#- A thumbnail is a slide too: light whatever the page wears. -#}
+                    {#- A thumbnail is the slide itself, smaller: its number stands
+                        beside it, in the page's own type. -#}
                     {%- for slide in slides -%}
-                        <button type="button" class="workspace-slides--thumb usage-color-scheme-light" data-workspace-select="{{ slide }}">
+                        <button type="button" class="workspace-slides--thumb" data-workspace-select="{{ slide }}">
                             <span class="workspace-slides--number">{{ loop.index }}</span>
-                            <span class="workspace-slides--title">{{ ('@page::slide.' ~ slide ~ '.title') | trans }}</span>
+                            {{ deck.slide(render_pass, ('@page::slide.' ~ slide ~ '.title') | trans, null, null, 'workspace-slides--preview') }}
                         </button>
                     {%- endfor -%}
                     {{ component(render_pass, '@WexampleSymfonyWorkspaceBundle/components/workspace-select', {

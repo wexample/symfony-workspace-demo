@@ -1,0 +1,37 @@
+{#- A slide as the deck draws it, in the centre or in the rail: a world of
+    its own (isolated), white with black text whatever the page wears, its
+    type sized on its own width so a thumbnail is the same slide smaller. -#}
+{%- macro slide(render_pass, title, body = null, position = null, class = null) -%}
+    {%- set content -%}
+        <style>
+            .frame { container-type: size; width: 100%; height: 100%; }
+            .slide {
+                box-sizing: border-box;
+                position: relative;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                gap: 3cqh;
+                height: 100%;
+                padding: 0 8cqw;
+                background: #fff;
+                color: #000;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            h1 { margin: 0; font-size: 7cqw; font-weight: 700; }
+            p { margin: 0; font-size: 3cqw; line-height: 1.4; }
+            .position { position: absolute; top: 3cqw; right: 4cqw; font-size: 2cqw; opacity: .5; }
+        </style>
+        <div class="frame">
+            <div class="slide">
+                {%- if position %}<span class="position">{{ position }}</span>{% endif -%}
+                <h1>{{ title }}</h1>
+                {%- if body %}<p>{{ body }}</p>{% endif -%}
+            </div>
+        </div>
+    {%- endset -%}
+    {{ component(render_pass, '@WexampleSymfonyDesignSystemBundle/components/isolated', {}, {
+        class: class,
+        slots: { body: content },
+    }) }}
+{%- endmacro -%}
