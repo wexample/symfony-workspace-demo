@@ -1,0 +1,66 @@
+{%- extends '@front/layouts/private/layout.html.twig' -%}
+
+{%- set page_body_mode = 'wide' -%}
+
+{#- Three regions and one channel. The rail is rendered by the server and
+    publishes on the channel; the centre is an embed following it, filled by
+    the server too; the inspector is a vue reading it and publishing on it
+    in turn. None of the three knows the others: the channel's name is all
+    they share. -#}
+{%- block page_body_container -%}
+    {%- set channel = 'demo.workspace.slides' -%}
+    {%- set first = slides|first -%}
+    <div class="zone zone--split">
+        <div class="zone zone--narrow zone--size-5 zone--scrollable zone--panel">
+            <div class="zone--content workspace-slides--rail">
+                {%- for slide in slides -%}
+                    <button type="button" class="workspace-slides--thumb" data-workspace-select="{{ slide }}">
+                        <span class="workspace-slides--number">{{ loop.index }}</span>
+                        <span class="workspace-slides--title">{{ ('@page::slide.' ~ slide ~ '.title') | trans }}</span>
+                    </button>
+                {%- endfor -%}
+                {{ component(render_pass, '@WexampleSymfonyWorkspaceBundle/components/workspace-select', {
+                    channel: channel,
+                    source: 'rail',
+                    initial: first,
+                }) }}
+            </div>
+        </div>
+        <div class="zone zone--split zone--split--vertical zone--panel">
+            <div class="zone zone--narrow toolbar toolbar--shaded toolbar--compact">
+                <h1 class="toolbar--title">{{ page_title|default(null) ?: '@page::page_title'|trans }}</h1>
+            </div>
+            <div class="zone zone--scrollable workspace-slides--stage">
+                {%- set embed = 'demo-workspace-slide' -%}
+                {{ page_embed(embed, { src: path('workspace_demo_slide', { id: first }) }) }}
+                {#- The path with a mark the id replaces: `{id}` itself would
+                    be escaped by the router. -#}
+                {{ component(render_pass, '@WexampleSymfonyWorkspaceBundle/components/workspace-follow', {
+                    channel: channel,
+                    embed: embed,
+                    path: path('workspace_demo_slide', { id: '__id__' }) | replace({ '__id__': '{id}' }),
+                    current: first,
+                }) }}
+            </div>
+        </div>
+        <div class="zone zone--narrow zone--size-6 zone--scrollable zone--panel">
+            <div class="zone--content">
+                {%- set titles = {} -%}
+                {%- for slide in slides -%}
+                    {%- set titles = titles|merge({ (slide): ('@page::slide.' ~ slide ~ '.title') | trans }) -%}
+                {%- endfor -%}
+                {{ vue(render_pass, '@WexampleSymfonyWorkspaceDemoBundle/components/demo-slide-inspector', {
+                    channel: channel,
+                    slides: slides,
+                    titles: titles,
+                    labels: {
+                        title: '@page::inspector.title' | trans,
+                        position: '@page::inspector.position' | trans,
+                        previous: '@page::inspector.previous' | trans,
+                        next: '@page::inspector.next' | trans,
+                    },
+                }) }}
+            </div>
+        </div>
+    </div>
+{%- endblock -%}

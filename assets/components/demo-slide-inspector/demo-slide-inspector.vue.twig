@@ -1,0 +1,15 @@
+{%- extends '@WexampleSymfonyDesignSystemBundle/components/_abstract/vue/vue.vue.twig' -%}
+
+{%- block vue_body -%}
+    <div class="stack--vertical">
+        <h3>[[ labels.title ]]</h3>
+        <template v-if="current">
+            <strong>[[ titles[current] ]]</strong>
+            <span class="text-secondary">[[ labels.position ]] : [[ index + 1 ]] / [[ slides.length ]]</span>
+        </template>
+        <div class="cluster">
+            <button type="button" class="button" :disabled="index <= 0" @click="move(-1)">[[ labels.previous ]]</button>
+            <button type="button" class="button" :disabled="index < 0 || index >= slides.length - 1" @click="move(1)">[[ labels.next ]]</button>
+        </div>
+    </div>
+{%- endblock -%}

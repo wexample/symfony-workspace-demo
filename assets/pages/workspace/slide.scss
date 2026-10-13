@@ -1,0 +1,19 @@
+.workspace-slide {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  aspect-ratio: 16 / 9;
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: var(--space-7);
+  background: var(--color-surface, #fff);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, .2);
+}
+
+.workspace-slide--position {
+  position: absolute;
+  top: var(--space-3);
+  inset-inline-end: var(--space-4);
+  opacity: .6;
+}

@@ -1,0 +1,11 @@
+{%- extends '@front/layouts/private/layout.html.twig' -%}
+
+{#- One slide, as the centre of the editor shows it: a frame of the slide's
+    proportions, its title and its words. -#}
+{%- block page_body -%}
+    <div class="workspace-slide">
+        <span class="workspace-slide--position">{{ '@page::position' | trans({ '%position%': position, '%count%': count }) }}</span>
+        <h2>{{ ('@page::slide.' ~ slide ~ '.title') | trans }}</h2>
+        <p>{{ ('@page::slide.' ~ slide ~ '.body') | trans }}</p>
+    </div>
+{%- endblock -%}

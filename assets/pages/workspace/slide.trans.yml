@@ -1,0 +1,35 @@
+en:
+  page_title: Slide
+  page_icon: ph:bold/presentation
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: Cover
+      body: A deck of four slides, to show a workspace and not a presentation.
+    agenda:
+      title: Agenda
+      body: The rail chooses, the centre shows, the inspector says which one and moves on.
+    figures:
+      title: Figures
+      body: This slide was rendered by the server and loaded into an embed.
+    closing:
+      title: Closing
+      body: Three regions, one channel, and none of them knows the others.
+
+fr:
+  page_title: Diapositive
+  page_icon: ph:bold/presentation
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: Couverture
+      body: Un jeu de quatre diapositives, pour montrer un espace de travail et non une présentation.
+    agenda:
+      title: Programme
+      body: Le rail choisit, le centre montre, l'inspecteur dit laquelle et passe à la suivante.
+    figures:
+      title: Chiffres
+      body: Cette diapositive a été rendue par le serveur et chargée dans un embed.
+    closing:
+      title: Conclusion
+      body: Trois régions, un canal, et aucune ne connaît les autres.
