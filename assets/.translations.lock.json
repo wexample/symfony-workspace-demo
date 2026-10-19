@@ -1,0 +1,178 @@
+{
+    "pages/workspace/slide.ar.yml": {
+        "page_icon": {
+            "hash": "af140f347cd00ec10fcdd3aa7dc691a7",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "48545ffe29f3a7f646ce8ea39514cf3d",
+            "engine": "syrtis"
+        },
+        "position": {
+            "hash": "9a2376d4729693c7421811b9fecaa772",
+            "engine": "syrtis"
+        },
+        "slide.agenda.body": {
+            "hash": "ba1927ecccecb235e329c053baf05297",
+            "engine": "syrtis"
+        },
+        "slide.agenda.title": {
+            "hash": "887440a3ccf71b7e2cc080ab86d49a9a",
+            "engine": "syrtis"
+        },
+        "slide.closing.body": {
+            "hash": "c0dfa7872b346cbb699dcb9a34a45112",
+            "engine": "syrtis"
+        },
+        "slide.closing.title": {
+            "hash": "99378a8a59737f19a2a221eb5d32c0b5",
+            "engine": "syrtis"
+        },
+        "slide.cover.body": {
+            "hash": "856ac28cace658d17151feeaf91c56b3",
+            "engine": "syrtis"
+        },
+        "slide.cover.title": {
+            "hash": "17e93692bb45c3737ab33c44cec96909",
+            "engine": "syrtis"
+        },
+        "slide.figures.body": {
+            "hash": "3f3160118c26d0880b5edeef47d18902",
+            "engine": "syrtis"
+        },
+        "slide.figures.title": {
+            "hash": "93182f2e20d76274aa58b42823c13f87",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/slide.zh.yml": {
+        "page_icon": {
+            "hash": "af140f347cd00ec10fcdd3aa7dc691a7",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "48545ffe29f3a7f646ce8ea39514cf3d",
+            "engine": "syrtis"
+        },
+        "position": {
+            "hash": "9a2376d4729693c7421811b9fecaa772",
+            "engine": "syrtis"
+        },
+        "slide.agenda.body": {
+            "hash": "ba1927ecccecb235e329c053baf05297",
+            "engine": "syrtis"
+        },
+        "slide.agenda.title": {
+            "hash": "887440a3ccf71b7e2cc080ab86d49a9a",
+            "engine": "syrtis"
+        },
+        "slide.closing.body": {
+            "hash": "c0dfa7872b346cbb699dcb9a34a45112",
+            "engine": "syrtis"
+        },
+        "slide.closing.title": {
+            "hash": "99378a8a59737f19a2a221eb5d32c0b5",
+            "engine": "syrtis"
+        },
+        "slide.cover.body": {
+            "hash": "856ac28cace658d17151feeaf91c56b3",
+            "engine": "syrtis"
+        },
+        "slide.cover.title": {
+            "hash": "17e93692bb45c3737ab33c44cec96909",
+            "engine": "syrtis"
+        },
+        "slide.figures.body": {
+            "hash": "3f3160118c26d0880b5edeef47d18902",
+            "engine": "syrtis"
+        },
+        "slide.figures.title": {
+            "hash": "93182f2e20d76274aa58b42823c13f87",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/slides.ar.yml": {
+        "inspector.next": {
+            "hash": "81e7e19c1094d0fec66b82b44d15dfef",
+            "engine": "syrtis"
+        },
+        "inspector.position": {
+            "hash": "f2adc5df4a18d898e4acfad346e791bb",
+            "engine": "syrtis"
+        },
+        "inspector.previous": {
+            "hash": "a2e36b218ab1d38cf5ed4f518ecf3173",
+            "engine": "syrtis"
+        },
+        "inspector.title": {
+            "hash": "48545ffe29f3a7f646ce8ea39514cf3d",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "af140f347cd00ec10fcdd3aa7dc691a7",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "049595e9eec70887140069987bb82bdc",
+            "engine": "syrtis"
+        },
+        "slide.agenda.title": {
+            "hash": "887440a3ccf71b7e2cc080ab86d49a9a",
+            "engine": "syrtis"
+        },
+        "slide.closing.title": {
+            "hash": "99378a8a59737f19a2a221eb5d32c0b5",
+            "engine": "syrtis"
+        },
+        "slide.cover.title": {
+            "hash": "17e93692bb45c3737ab33c44cec96909",
+            "engine": "syrtis"
+        },
+        "slide.figures.title": {
+            "hash": "93182f2e20d76274aa58b42823c13f87",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/slides.zh.yml": {
+        "inspector.next": {
+            "hash": "81e7e19c1094d0fec66b82b44d15dfef",
+            "engine": "syrtis"
+        },
+        "inspector.position": {
+            "hash": "f2adc5df4a18d898e4acfad346e791bb",
+            "engine": "syrtis"
+        },
+        "inspector.previous": {
+            "hash": "a2e36b218ab1d38cf5ed4f518ecf3173",
+            "engine": "syrtis"
+        },
+        "inspector.title": {
+            "hash": "48545ffe29f3a7f646ce8ea39514cf3d",
+            "engine": "syrtis"
+        },
+        "page_icon": {
+            "hash": "af140f347cd00ec10fcdd3aa7dc691a7",
+            "engine": "syrtis"
+        },
+        "page_title": {
+            "hash": "049595e9eec70887140069987bb82bdc",
+            "engine": "syrtis"
+        },
+        "slide.agenda.title": {
+            "hash": "887440a3ccf71b7e2cc080ab86d49a9a",
+            "engine": "syrtis"
+        },
+        "slide.closing.title": {
+            "hash": "99378a8a59737f19a2a221eb5d32c0b5",
+            "engine": "syrtis"
+        },
+        "slide.cover.title": {
+            "hash": "17e93692bb45c3737ab33c44cec96909",
+            "engine": "syrtis"
+        },
+        "slide.figures.title": {
+            "hash": "93182f2e20d76274aa58b42823c13f87",
+            "engine": "syrtis"
+        }
+    }
+}

@@ -33,3 +33,39 @@ fr:
     position: Position
     previous: Précédente
     next: Suivante
+
+zh:
+  page_title: 幻灯片编辑器
+  page_icon: 'ph:bold/presentation'
+  slide:
+    cover:
+      title: 封面
+    agenda:
+      title: 议程
+    figures:
+      title: 图表
+    closing:
+      title: 结束
+  inspector:
+    title: 幻灯片
+    position: 位置
+    previous: 上一个
+    next: 下一个
+
+ar:
+  page_title: 'محرر الشرائح'
+  page_icon: 'ph:bold/presentation'
+  slide:
+    cover:
+      title: الغلاف
+    agenda:
+      title: 'جدول الأعمال'
+    figures:
+      title: الأرقام
+    closing:
+      title: الخاتمة
+  inspector:
+    title: الشريحة
+    position: الموقع
+    previous: السابق
+    next: التالي

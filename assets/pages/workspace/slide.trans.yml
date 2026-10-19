@@ -33,3 +33,39 @@ fr:
     closing:
       title: Conclusion
       body: Trois régions, un canal, et aucune ne connaît les autres.
+
+zh:
+  page_title: 幻灯片
+  page_icon: 'ph:bold/presentation'
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: 封面
+      body: 一组四张幻灯片，用于展示工作区而不是演示文稿。
+    agenda:
+      title: 议程
+      body: 轨道选择，中心展示，检查员决定哪个并继续。
+    figures:
+      title: 数字
+      body: 此幻灯片由服务器渲染并加载到嵌入中。
+    closing:
+      title: 结束
+      body: 三个区域，一个通道，彼此之间没有了解。
+
+ar:
+  page_title: شريحة
+  page_icon: 'ph:bold/presentation'
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: الغلاف
+      body: 'مجموعة من أربع شرائح، لعرض مساحة العمل وليس عرض تقديمي.'
+    agenda:
+      title: 'جدول الأعمال'
+      body: 'المسار يختار، المركز يظهر، المفتش يحدد أي واحدة ويتقدم.'
+    figures:
+      title: الأرقام
+      body: 'تم عرض هذه الشريحة بواسطة الخادم وتحميلها في تضمين.'
+    closing:
+      title: الإغلاق
+      body: 'ثلاثة مجالات، قناة واحدة، ولا أحد منهم يعرف الآخرين.'
