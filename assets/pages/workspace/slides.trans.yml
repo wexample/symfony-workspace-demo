@@ -69,3 +69,345 @@ ar:
     position: الموقع
     previous: السابق
     next: التالي
+
+hi:
+  page_title: 'स्लाइड संपादक'
+  page_icon: 'ph:bold/presentation'
+  slide:
+    cover:
+      title: कवर
+    agenda:
+      title: कार्यसूची
+    figures:
+      title: आकृतियाँ
+    closing:
+      title: समापन
+  inspector:
+    title: स्लाइड
+    position: स्थिति
+    previous: पिछला
+    next: अगला
+
+he:
+  page_title: 'עורך שקפים'
+  page_icon: 'ph:bold/presentation'
+  slide:
+    cover:
+      title: שער
+    agenda:
+      title: 'סדר יום'
+    figures:
+      title: מספרים
+    closing:
+      title: סיום
+  inspector:
+    title: שקף
+    position: מיקום
+    previous: קודם
+    next: הבא
+
+fa:
+  page_title: 'ویرایشگر اسلاید'
+  page_icon: 'ph:bold/presentation'
+  slide:
+    cover:
+      title: پوشش
+    agenda:
+      title: برنامه
+    figures:
+      title: اعداد
+    closing:
+      title: اختتامیه
+  inspector:
+    title: اسلاید
+    position: موقعیت
+    previous: قبلی
+    next: بعدی
+
+ur:
+  page_title: 'سلائیڈ ایڈیٹر'
+  page_icon: 'ph:bold/presentation'
+  slide:
+    cover:
+      title: کور
+    agenda:
+      title: ایجنڈا
+    figures:
+      title: 'اعداد و شمار'
+    closing:
+      title: اختتام
+  inspector:
+    title: سلائیڈ
+    position: پوزیشن
+    previous: پچھلا
+    next: اگلا
+
+ja:
+  page_title: スライド編集
+  page_icon: 'ph:bold/presentation'
+  slide:
+    cover:
+      title: カバー
+    agenda:
+      title: アジェンダ
+    figures:
+      title: 図表
+    closing:
+      title: 結論
+  inspector:
+    title: スライド
+    position: 位置
+    previous: 前
+    next: 次
+
+ko:
+  page_title: '슬라이드 편집기'
+  page_icon: 'ph:bold/presentation'
+  slide:
+    cover:
+      title: 표지
+    agenda:
+      title: 목차
+    figures:
+      title: 도표
+    closing:
+      title: 마무리
+  inspector:
+    title: 슬라이드
+    position: 위치
+    previous: 이전
+    next: 다음
+
+bn:
+  page_title: 'স্লাইড সম্পাদক'
+  page_icon: 'ph:bold/presentation'
+  slide:
+    cover:
+      title: কভার
+    agenda:
+      title: এজেন্ডা
+    figures:
+      title: চিত্র
+    closing:
+      title: সমাপনী
+  inspector:
+    title: স্লাইড
+    position: অবস্থান
+    previous: পূর্ববর্তী
+    next: পরবর্তী
+
+th:
+  page_title: ตัวแก้ไขสไลด์
+  page_icon: 'ph:bold/presentation'
+  slide:
+    cover:
+      title: หน้าปก
+    agenda:
+      title: วาระการประชุม
+    figures:
+      title: ตัวเลข
+    closing:
+      title: บทสรุป
+  inspector:
+    title: สไลด์
+    position: ตำแหน่ง
+    previous: ก่อนหน้า
+    next: ถัดไป
+
+de:
+  page_title: Foliendesigner
+  page_icon: 'ph:bold/presentation'
+  slide:
+    cover:
+      title: Titelfolie
+    agenda:
+      title: Agenda
+    figures:
+      title: Zahlen
+    closing:
+      title: Schlussfolgerung
+  inspector:
+    title: Folie
+    position: Position
+    previous: Vorherige
+    next: Nächste
+
+fi:
+  page_title: Diaeditori
+  page_icon: 'ph:bold/presentation'
+  slide:
+    cover:
+      title: Kansi
+    agenda:
+      title: Agenda
+    figures:
+      title: Kuvastot
+    closing:
+      title: Päätös
+  inspector:
+    title: Dia
+    position: Sijainti
+    previous: Edellinen
+    next: Seuraava
+
+ru:
+  page_title: 'Редактор слайдов'
+  page_icon: 'ph:bold/presentation'
+  slide:
+    cover:
+      title: Обложка
+    agenda:
+      title: Повестка
+    figures:
+      title: Фигуры
+    closing:
+      title: Заключение
+  inspector:
+    title: Слайд
+    position: Позиция
+    previous: Предыдущий
+    next: Следующий
+
+pl:
+  page_title: 'Edytor slajdów'
+  page_icon: 'ph:bold/presentation'
+  slide:
+    cover:
+      title: Okładka
+    agenda:
+      title: Agenda
+    figures:
+      title: Wykresy
+    closing:
+      title: Zakończenie
+  inspector:
+    title: Slajd
+    position: Pozycja
+    previous: Poprzedni
+    next: Następny
+
+es:
+  page_title: 'Editor de diapositivas'
+  page_icon: 'ph:bold/presentation'
+  slide:
+    cover:
+      title: Portada
+    agenda:
+      title: Agenda
+    figures:
+      title: Figuras
+    closing:
+      title: Cierre
+  inspector:
+    title: Diapositiva
+    position: Posición
+    previous: Anterior
+    next: Siguiente
+
+it:
+  page_title: 'Editor di diapositive'
+  page_icon: 'ph:bold/presentation'
+  slide:
+    cover:
+      title: Copertina
+    agenda:
+      title: Agenda
+    figures:
+      title: Figure
+    closing:
+      title: Chiusura
+  inspector:
+    title: Diapositiva
+    position: Posizione
+    previous: Precedente
+    next: Successivo
+
+pt_BR:
+  page_title: 'Editor de slides'
+  page_icon: 'ph:bold/presentation'
+  slide:
+    cover:
+      title: Capa
+    agenda:
+      title: Agenda
+    figures:
+      title: Figuras
+    closing:
+      title: Fechamento
+  inspector:
+    title: Slide
+    position: Posição
+    previous: Anterior
+    next: Próximo
+
+tr:
+  page_title: 'Slayt düzenleyici'
+  page_icon: 'ph:bold/presentation'
+  slide:
+    cover:
+      title: Kapak
+    agenda:
+      title: Gündem
+    figures:
+      title: Şekiller
+    closing:
+      title: Kapanış
+  inspector:
+    title: Slayt
+    position: Pozisyon
+    previous: Önceki
+    next: Sonraki
+
+vi:
+  page_title: 'Trình chỉnh sửa slide'
+  page_icon: 'ph:bold/presentation'
+  slide:
+    cover:
+      title: Bìa
+    agenda:
+      title: 'Chương trình'
+    figures:
+      title: 'Hình ảnh'
+    closing:
+      title: 'Kết thúc'
+  inspector:
+    title: Slide
+    position: 'Vị trí'
+    previous: Trước
+    next: 'Tiếp theo'
+
+id:
+  page_title: 'Editor Slide'
+  page_icon: 'ph:bold/presentation'
+  slide:
+    cover:
+      title: Sampul
+    agenda:
+      title: Agenda
+    figures:
+      title: Gambar
+    closing:
+      title: Penutupan
+  inspector:
+    title: Slide
+    position: Posisi
+    previous: Sebelumnya
+    next: Selanjutnya
+
+nl:
+  page_title: Dia-editor
+  page_icon: 'ph:bold/presentation'
+  slide:
+    cover:
+      title: Omslag
+    agenda:
+      title: Agenda
+    figures:
+      title: Cijfers
+    closing:
+      title: Afsluiting
+  inspector:
+    title: Dia
+    position: Positie
+    previous: Vorige
+    next: Volgende

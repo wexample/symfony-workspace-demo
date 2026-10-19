@@ -69,3 +69,345 @@ ar:
     closing:
       title: الإغلاق
       body: 'ثلاثة مجالات، قناة واحدة، ولا أحد منهم يعرف الآخرين.'
+
+hi:
+  page_title: स्लाइड
+  page_icon: 'ph:bold/presentation'
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: कवर
+      body: 'चार स्लाइडों का एक डेक, जो एक कार्यक्षेत्र दिखाता है और न कि एक प्रस्तुति।'
+    agenda:
+      title: एजेंडा
+      body: 'रेल चुनती है, केंद्र दिखाता है, निरीक्षक बताता है कि कौन सा और आगे बढ़ता है।'
+    figures:
+      title: आकृतियाँ
+      body: 'इस स्लाइड को सर्वर द्वारा प्रस्तुत किया गया था और एक एम्बेड में लोड किया गया था।'
+    closing:
+      title: समापन
+      body: 'तीन क्षेत्र, एक चैनल, और इनमें से कोई भी दूसरों को नहीं जानता।'
+
+he:
+  page_title: שקף
+  page_icon: 'ph:bold/presentation'
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: כריכה
+      body: 'ערכה של ארבעה שקפים, להציג מקום עבודה ולא מצגת.'
+    agenda:
+      title: 'סדר יום'
+      body: 'הרכבת בוחרת, המרכז מציג, המפקח קובע איזה ואחר כך עובר.'
+    figures:
+      title: דמויות
+      body: 'שקף זה הוצג על ידי השרת וטען לתוך הטמעה.'
+    closing:
+      title: סיום
+      body: 'שלושה אזורים, ערוץ אחד, ואף אחד מהם לא מכיר את האחרים.'
+
+fa:
+  page_title: اسلاید
+  page_icon: 'ph:bold/presentation'
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: کاور
+      body: 'یک دسته چهار اسلاید، برای نشان دادن یک محیط کاری و نه یک ارائه.'
+    agenda:
+      title: 'دستور جلسه'
+      body: 'ریل انتخاب می کند، مرکز نشان می دهد، بازرس می گوید کدام یک و ادامه می دهد.'
+    figures:
+      title: اعداد
+      body: 'این اسلاید توسط سرور رندر شده و در یک کد جاسازی شده بارگذاری شده است.'
+    closing:
+      title: خاتمه
+      body: 'سه منطقه، یک کانال، و هیچکدام از آن‌ها از دیگری خبر ندارد.'
+
+ur:
+  page_title: سلائیڈ
+  page_icon: 'ph:bold/presentation'
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: کور
+      body: 'چار سلائیڈز کا ڈیک، جو ایک ورک اسپیس کو دکھاتا ہے اور پریزنٹیشن نہیں۔'
+    agenda:
+      title: ایجنڈا
+      body: 'ریل چنتی ہے، مرکز دکھاتا ہے، انسپکٹر کہتا ہے کہ کون سا اور آگے بڑھتا ہے۔'
+    figures:
+      title: 'اعداد و شمار'
+      body: 'یہ سلائیڈ سرور کے ذریعے تیار کی گئی تھی اور ایک ایمبیڈ میں لوڈ کی گئی تھی۔'
+    closing:
+      title: اختتام
+      body: 'تین علاقے، ایک چینل، اور ان میں سے کوئی بھی دوسرے کو نہیں جانتا۔'
+
+ja:
+  page_title: スライド
+  page_icon: 'ph:bold/presentation'
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: カバー
+      body: ワークスペースを示す4枚のスライドのデッキであり、プレゼンテーションではありません。
+    agenda:
+      title: アジェンダ
+      body: レールが選び、センターが示し、インスペクターがどれかを言って進みます。
+    figures:
+      title: 図表
+      body: このスライドはサーバーによってレンダリングされ、埋め込まれました。
+    closing:
+      title: 締めくくり
+      body: 3つの領域、1つのチャネル、そしてそれぞれが他を知りません。
+
+ko:
+  page_title: 슬라이드
+  page_icon: 'ph:bold/presentation'
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: 표지
+      body: '작업 공간을 보여주고 프레젠테이션이 아닌 네 장의 슬라이드로 구성된 덱입니다.'
+    agenda:
+      title: 목차
+      body: '레일이 선택하고, 중앙이 보여주며, 검사자가 어떤 것을 선택하고 넘어갑니다.'
+    figures:
+      title: 도형
+      body: '이 슬라이드는 서버에 의해 렌더링되고 임베드에 로드되었습니다.'
+    closing:
+      title: 마무리
+      body: '세 가지 영역, 하나의 채널, 그리고 그들 서로는 서로를 알지 못합니다.'
+
+bn:
+  page_title: স্লাইড
+  page_icon: 'ph:bold/presentation'
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: কভার
+      body: 'চারটি স্লাইডের একটি ডেক, একটি কর্মক্ষেত্র প্রদর্শন করতে এবং একটি উপস্থাপনাকে নয়।'
+    agenda:
+      title: এজেন্ডা
+      body: 'রেলটি নির্বাচন করে, কেন্দ্রটি প্রদর্শন করে, পরিদর্শক বলে কোনটি এবং পরবর্তী দিকে চলে।'
+    figures:
+      title: ফিগার
+      body: 'এই স্লাইডটি সার্ভার দ্বারা রেন্ডার করা হয়েছে এবং একটি এম্বেডে লোড করা হয়েছে।'
+    closing:
+      title: সমাপ্তি
+      body: 'তিনটি অঞ্চল, একটি চ্যানেল, এবং তাদের মধ্যে কেউ অন্যদের জানে না।'
+
+th:
+  page_title: สไลด์
+  page_icon: 'ph:bold/presentation'
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: หน้าปก
+      body: 'ชุดสไลด์สี่ชุด เพื่อแสดงสถานที่ทำงานและไม่ใช่การนำเสนอ.'
+    agenda:
+      title: วาระ
+      body: 'รางเลือก, ศูนย์แสดง, ผู้ตรวจสอบบอกว่าสไลด์ไหนและดำเนินการต่อ.'
+    figures:
+      title: ตัวเลข
+      body: สไลด์นี้ถูกเรนเดอร์โดยเซิร์ฟเวอร์และโหลดเข้าไปในแทรก.
+    closing:
+      title: ปิดการนำเสนอ
+      body: 'สามภูมิภาค, ช่องทางเดียว, และไม่มีใครรู้จักกันเลย.'
+
+de:
+  page_title: Folie
+  page_icon: 'ph:bold/presentation'
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: Titelseite
+      body: 'Ein Deck aus vier Folien, um einen Arbeitsbereich und keine Präsentation zu zeigen.'
+    agenda:
+      title: Agenda
+      body: 'Die Schiene wählt, das Zentrum zeigt, der Prüfer sagt, welche und macht weiter.'
+    figures:
+      title: Zahlen
+      body: 'Diese Folie wurde vom Server gerendert und in ein Embed geladen.'
+    closing:
+      title: Abschluss
+      body: 'Drei Regionen, ein Kanal, und keine von ihnen kennt die anderen.'
+
+fi:
+  page_title: Dia
+  page_icon: 'ph:bold/presentation'
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: Kansi
+      body: 'Neljä dian esityspakettia, jotka esittävät työtilan eikä esitystä.'
+    agenda:
+      title: Aikataulu
+      body: 'Raide valitsee, keskus näyttää, tarkastaja sanoo kumpi ja siirtyy eteenpäin.'
+    figures:
+      title: Luvut
+      body: 'Tämä dia renderöitiin palvelimella ja ladattiin upotettuna.'
+    closing:
+      title: Päätös
+      body: 'Kolme aluetta, yksi kanava, eikä yksikään niistä tiedä toisten olemassaolosta.'
+
+ru:
+  page_title: Слайд
+  page_icon: 'ph:bold/presentation'
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: Обложка
+      body: 'Набор из четырёх слайдов, чтобы показать рабочее пространство, а не презентацию.'
+    agenda:
+      title: Повестка
+      body: 'Рельс выбирает, центр показывает, инспектор говорит, какой из них и продолжает.'
+    figures:
+      title: Фигуры
+      body: 'Этот слайд был отрендерен сервером и загружен в встраивание.'
+    closing:
+      title: Заключение
+      body: 'Три региона, один канал, и ни один из них не знает о других.'
+
+pl:
+  page_title: Slajd
+  page_icon: 'ph:bold/presentation'
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: Okładka
+      body: 'Zestaw czterech slajdów, aby pokazać miejsce pracy, a nie prezentację.'
+    agenda:
+      title: Agenda
+      body: 'Szyna wybiera, środek pokazuje, inspektor mówi, który i przechodzi dalej.'
+    figures:
+      title: Liczby
+      body: 'Ten slajd został wygenerowany przez serwer i załadowany do osadzenia.'
+    closing:
+      title: Zamknięcie
+      body: 'Trzy obszary, jeden kanał, a żaden z nich nie zna pozostałych.'
+
+es:
+  page_title: Diapositiva
+  page_icon: 'ph:bold/presentation'
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: Portada
+      body: 'Un conjunto de cuatro diapositivas, para mostrar un espacio de trabajo y no una presentación.'
+    agenda:
+      title: Agenda
+      body: 'El riel elige, el centro muestra, el inspector dice cuál y continúa.'
+    figures:
+      title: Figuras
+      body: 'Esta diapositiva fue renderizada por el servidor y cargada en un embed.'
+    closing:
+      title: Cierre
+      body: 'Tres regiones, un canal, y ninguno de ellos conoce a los demás.'
+
+it:
+  page_title: Diapositiva
+  page_icon: 'ph:bold/presentation'
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: Copertina
+      body: 'Un insieme di quattro diapositive, per mostrare uno spazio di lavoro e non una presentazione.'
+    agenda:
+      title: Agenda
+      body: "La guida sceglie, il centro mostra, l'ispettore dice quale e prosegue."
+    figures:
+      title: Figure
+      body: 'Questa diapositiva è stata generata dal server e caricata in un embed.'
+    closing:
+      title: Chiusura
+      body: 'Tre regioni, un canale, e nessuna di esse conosce le altre.'
+
+pt_BR:
+  page_title: Slide
+  page_icon: 'ph:bold/presentation'
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: Capa
+      body: 'Um conjunto de quatro slides, para mostrar um espaço de trabalho e não uma apresentação.'
+    agenda:
+      title: Agenda
+      body: 'A trilha escolhe, o centro mostra, o inspetor diz qual é e segue em frente.'
+    figures:
+      title: Figuras
+      body: 'Este slide foi renderizado pelo servidor e carregado em um embed.'
+    closing:
+      title: Encerramento
+      body: 'Três regiões, um canal, e nenhum deles conhece os outros.'
+
+tr:
+  page_title: Slayt
+  page_icon: 'ph:bold/presentation'
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: Kapak
+      body: 'Bir çalışma alanını göstermek için dört slayttan oluşan bir sunum.'
+    agenda:
+      title: Gündem
+      body: 'Ray seçer, merkez gösterir, denetçi hangisinin olduğunu söyler ve devam eder.'
+    figures:
+      title: Şekiller
+      body: 'Bu slayt sunucu tarafından oluşturuldu ve bir yerleştirmeye yüklendi.'
+    closing:
+      title: Kapanış
+      body: 'Üç bölge, bir kanal ve hiçbiri diğerlerini tanımıyor.'
+
+vi:
+  page_title: 'Trang trình bày'
+  page_icon: 'ph:bold/presentation'
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: Bìa
+      body: 'Một bộ bốn trang trình bày, để cho thấy một không gian làm việc chứ không phải một bài thuyết trình.'
+    agenda:
+      title: 'Chương trình'
+      body: 'Đường ray chọn, trung tâm hiển thị, thanh tra chỉ ra cái nào và tiếp tục.'
+    figures:
+      title: 'Hình ảnh'
+      body: 'Trang trình bày này được máy chủ tạo ra và tải vào một phần nhúng.'
+    closing:
+      title: 'Kết thúc'
+      body: 'Ba khu vực, một kênh, và không ai trong số họ biết về những người khác.'
+
+id:
+  page_title: Slide
+  page_icon: 'ph:bold/presentation'
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: Sampul
+      body: 'Sekumpulan empat slide, untuk menunjukkan ruang kerja dan bukan presentasi.'
+    agenda:
+      title: Agenda
+      body: 'Rel memilih, pusat menunjukkan, inspektur mengatakan yang mana dan melanjutkan.'
+    figures:
+      title: Angka
+      body: 'Slide ini dirender oleh server dan dimuat ke dalam embed.'
+    closing:
+      title: Penutupan
+      body: 'Tiga wilayah, satu saluran, dan tidak ada dari mereka yang mengetahui yang lain.'
+
+nl:
+  page_title: Dia
+  page_icon: 'ph:bold/presentation'
+  position: '%position% / %count%'
+  slide:
+    cover:
+      title: Cover
+      body: "Een set van vier dia's, om een werkruimte te tonen en geen presentatie."
+    agenda:
+      title: Agenda
+      body: 'De rail kiest, het midden toont, de inspecteur zegt welke en gaat verder.'
+    figures:
+      title: Cijfers
+      body: 'Deze dia is gerenderd door de server en geladen in een embed.'
+    closing:
+      title: Afsluiting
+      body: "Drie regio's, één kanaal, en geen van hen kent de anderen."
