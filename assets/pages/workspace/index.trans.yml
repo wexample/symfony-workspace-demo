@@ -2,6 +2,7 @@ en:
   ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
 
   page_title: Workspace
+  page_description: "A workspace layout of three side-by-side regions, each scrolling on its own and sized independently, separated only by the space between them."
   page_icon: ph:bold/sidebar-simple
 
   intro: "This page is the example: what you are reading stands in the middle of three regions, laid side by side in the body of the page."
@@ -37,6 +38,7 @@ en:
 ar:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: 'مساحة العمل'
+  page_description: "تخطيط مساحة عمل من ثلاث مناطق متجاورة، لكل منها تمريرها وحجمها المستقل، لا يفصل بينها إلا الفراغ."
   page_icon: 'ph:bold/sidebar-simple'
   intro: 'هذه الصفحة هي المثال: ما تقرأه يقع في وسط ثلاث مناطق، موضوعة جنبًا إلى جنب في جسم الصفحة.'
   section:
@@ -67,6 +69,7 @@ ar:
 bn:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: কর্মক্ষেত্র
+  page_description: "পাশাপাশি তিনটি অঞ্চলের ওয়ার্কস্পেস লেআউট, প্রতিটি নিজে স্ক্রল করে ও আলাদা মাপ নেয়, কেবল মাঝের ফাঁক দিয়ে আলাদা।"
   page_icon: 'ph:bold/sidebar-simple'
   intro: 'এই পৃষ্ঠাটি একটি উদাহরণ: আপনি যা পড়ছেন তা তিনটি অঞ্চলের মাঝখানে অবস্থিত, যা পৃষ্ঠার দেহে পাশাপাশি রাখা হয়েছে।'
   section:
@@ -97,6 +100,7 @@ bn:
 de:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: Arbeitsbereich
+  page_description: "Ein Arbeitsbereich aus drei nebeneinanderliegenden Regionen, jede mit eigenem Scrollen und eigener Größe, getrennt nur durch den Raum zwischen ihnen."
   page_icon: 'ph:bold/sidebar-simple'
   intro: 'Diese Seite ist das Beispiel: Was Sie lesen, steht in der Mitte von drei Bereichen, die nebeneinander im Seiteninhalt angeordnet sind.'
   section:
@@ -127,6 +131,7 @@ de:
 es:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: 'Espacio de trabajo'
+  page_description: "Un diseño de espacio de trabajo con tres regiones contiguas, cada una con su propio desplazamiento y tamaño, separadas solo por el espacio entre ellas."
   page_icon: 'ph:bold/sidebar-simple'
   intro: 'Esta página es el ejemplo: lo que estás leyendo está en el medio de tres regiones, dispuestas lado a lado en el cuerpo de la página.'
   section:
@@ -157,6 +162,7 @@ es:
 fa:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: 'فضای کاری'
+  page_description: "چیدمان فضای کاری با سه ناحیه کنار هم، هر کدام با پیمایش و اندازه مستقل، که فقط فاصله میانشان آن‌ها را جدا می‌کند."
   page_icon: 'ph:bold/sidebar-simple'
   intro: 'این صفحه یک مثال است: آنچه شما می‌خوانید در وسط سه منطقه قرار دارد که در کنار هم در بدنه صفحه چیده شده‌اند.'
   section:
@@ -187,6 +193,7 @@ fa:
 fi:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: Työtila
+  page_description: "Kolmen rinnakkaisen alueen työtila, jokainen vierii ja mitoittuu itsenäisesti, erotettuina vain niiden välisellä tilalla."
   page_icon: 'ph:bold/sidebar-simple'
   intro: 'Tämä sivu on esimerkki: mitä olet lukemassa, sijaitsee kolmen alueen keskellä, aseteltuna vierekkäin sivun rungossa.'
   section:
@@ -217,6 +224,7 @@ fi:
 fr:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: 'Espace de travail'
+  page_description: "Une mise en page d'espace de travail en trois régions côte à côte, chacune défilant seule et dimensionnée indépendamment, séparées seulement par l'espace qui les sépare."
   page_icon: 'ph:bold/sidebar-simple'
   intro: "Cette page est l'exemple : ce que vous lisez se trouve au milieu de trois régions, disposées côte à côte dans le corps de la page."
   section:
@@ -247,6 +255,7 @@ fr:
 he:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: 'מרחב עבודה'
+  page_description: "פריסת סביבת עבודה של שלושה אזורים זה לצד זה, כל אחד נגלל בעצמו ובגודל עצמאי, מופרדים רק ברווח שביניהם."
   page_icon: 'ph:bold/sidebar-simple'
   intro: 'דף זה הוא הדוגמה: מה שאתה קורא נמצא באמצע שלושה אזורים, מונחים זה לצד זה בגוף הדף.'
   section:
@@ -277,6 +286,7 @@ he:
 hi:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: कार्यक्षेत्र
+  page_description: "तीन अगल-बगल क्षेत्रों वाला वर्कस्पेस लेआउट, हर एक अपने आप स्क्रॉल होता और अलग आकार लेता है, केवल बीच की जगह से अलग।"
   page_icon: 'ph:bold/sidebar-simple'
   intro: 'यह पृष्ठ उदाहरण है: जो आप पढ़ रहे हैं वह तीन क्षेत्रों के बीच में है, जो पृष्ठ के शरीर में बगल में रखे गए हैं।'
   section:
@@ -307,6 +317,7 @@ hi:
 id:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: 'Ruang Kerja'
+  page_description: "Tata letak ruang kerja dengan tiga wilayah berdampingan, masing-masing bergulir dan berukuran sendiri, dipisahkan hanya oleh jarak di antaranya."
   page_icon: 'ph:bold/sidebar-simple'
   intro: 'Halaman ini adalah contoh: apa yang Anda baca berada di tengah tiga wilayah, yang diletakkan berdampingan di badan halaman.'
   section:
@@ -337,6 +348,7 @@ id:
 it:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: 'Spazio di lavoro'
+  page_description: "Un layout di spazio di lavoro con tre regioni affiancate, ognuna con scorrimento e dimensioni proprie, separate solo dallo spazio tra loro."
   page_icon: 'ph:bold/sidebar-simple'
   intro: 'Questa pagina è un esempio: ciò che stai leggendo si trova al centro di tre aree, disposte affiancate nel corpo della pagina.'
   section:
@@ -367,6 +379,7 @@ it:
 ja:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: ワークスペース
+  page_description: "3つの領域を横に並べたワークスペースのレイアウト。それぞれ独立してスクロールし、サイズも個別。区切りは間の余白だけ。"
   page_icon: 'ph:bold/sidebar-simple'
   intro: このページは例です：あなたが読んでいる内容は、ページの本文の中で横に並んでいる三つの領域の真ん中に位置しています。
   section:
@@ -397,6 +410,7 @@ ja:
 ko:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: '작업 공간'
+  page_description: "세 영역을 나란히 둔 작업 공간 레이아웃. 각각 따로 스크롤되고 크기도 독립적이며, 사이의 여백만으로 구분됩니다."
   page_icon: 'ph:bold/sidebar-simple'
   intro: '이 페이지는 예시입니다: 당신이 읽고 있는 내용은 페이지의 본문에 나란히 배치된 세 개의 영역의 중앙에 위치하고 있습니다.'
   section:
@@ -427,6 +441,7 @@ ko:
 nl:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: Werkruimte
+  page_description: "Een werkruimte-indeling met drie regio's naast elkaar, elk met eigen scroll en eigen grootte, alleen gescheiden door de ruimte ertussen."
   page_icon: 'ph:bold/sidebar-simple'
   intro: "Deze pagina is het voorbeeld: wat je leest staat in het midden van drie regio's, naast elkaar in de body van de pagina."
   section:
@@ -457,6 +472,7 @@ nl:
 pl:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: 'Obszar roboczy'
+  page_description: "Układ przestrzeni roboczej z trzech regionów obok siebie, każdy przewijany i wymiarowany osobno, rozdzielonych jedynie odstępem."
   page_icon: 'ph:bold/sidebar-simple'
   intro: 'Ta strona jest przykładem: to, co czytasz, znajduje się w środku trzech obszarów, ułożonych obok siebie w treści strony.'
   section:
@@ -487,6 +503,7 @@ pl:
 pt_BR:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: 'Espaço de Trabalho'
+  page_description: "Um layout de espaço de trabalho com três regiões lado a lado, cada uma com rolagem e tamanho próprios, separadas apenas pelo espaço entre elas."
   page_icon: 'ph:bold/sidebar-simple'
   intro: 'Esta página é o exemplo: o que você está lendo está no meio de três regiões, dispostas lado a lado no corpo da página.'
   section:
@@ -517,6 +534,7 @@ pt_BR:
 ru:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: 'Рабочее пространство'
+  page_description: "Рабочая область из трёх соседних зон, каждая прокручивается и задаёт размер самостоятельно, разделённых лишь пространством между ними."
   page_icon: 'ph:bold/sidebar-simple'
   intro: 'Эта страница является примером: то, что вы читаете, находится в центре трех областей, расположенных рядом в теле страницы.'
   section:
@@ -547,6 +565,7 @@ ru:
 th:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: พื้นที่ทำงาน
+  page_description: "เลย์เอาต์พื้นที่ทำงานสามส่วนวางเคียงกัน แต่ละส่วนเลื่อนและกำหนดขนาดได้อิสระ แยกจากกันด้วยช่องว่างเท่านั้น"
   page_icon: 'ph:bold/sidebar-simple'
   intro: 'หน้านี้เป็นตัวอย่าง: สิ่งที่คุณกำลังอ่านอยู่ตรงกลางของสามพื้นที่ ที่อยู่ข้างกันในเนื้อหาของหน้า.'
   section:
@@ -577,6 +596,7 @@ th:
 tr:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: 'Çalışma Alanı'
+  page_description: "Yan yana üç bölgeden oluşan çalışma alanı düzeni; her biri kendi başına kayar ve bağımsız boyutlanır, yalnızca aralarındaki boşlukla ayrılır."
   page_icon: 'ph:bold/sidebar-simple'
   intro: 'Bu sayfa örnektir: okuduğunuz içerik, sayfanın ortasında yan yana yer alan üç bölgeden birindedir.'
   section:
@@ -607,6 +627,7 @@ tr:
 ur:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: 'ورک اسپیس'
+  page_description: "تین ساتھ ساتھ حصوں پر مشتمل ورک اسپیس لے آؤٹ، ہر ایک الگ سے اسکرول اور الگ سائز ہوتا ہے، صرف درمیانی جگہ سے جدا۔"
   page_icon: 'ph:bold/sidebar-simple'
   intro: 'یہ صفحہ ایک مثال ہے: جو آپ پڑھ رہے ہیں وہ تین علاقوں کے درمیان میں ہے، جو صفحے کے جسم میں ایک ساتھ رکھے گئے ہیں۔'
   section:
@@ -637,6 +658,7 @@ ur:
 vi:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: 'Không gian làm việc'
+  page_description: "Bố cục không gian làm việc gồm ba vùng đặt cạnh nhau, mỗi vùng cuộn và co giãn độc lập, chỉ ngăn cách bởi khoảng trống giữa chúng."
   page_icon: 'ph:bold/sidebar-simple'
   intro: 'Trang này là ví dụ: những gì bạn đang đọc nằm ở giữa ba vùng, được đặt cạnh nhau trong thân trang.'
   section:
@@ -667,6 +689,7 @@ vi:
 zh:
   ~extends: '@WexampleSymfonyLoaderBundle.config.design_system.app.index'
   page_title: 工作区
+  page_description: "由三个并排区域组成的工作区布局，各自独立滚动、独立设定尺寸，仅靠彼此之间的间距分隔。"
   page_icon: 'ph:bold/sidebar-simple'
   intro: 此页面是示例：您正在阅读的内容位于三个区域的中间，这些区域并排放置在页面主体中。
   section:
