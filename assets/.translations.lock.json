@@ -1,4 +1,136 @@
 {
+    "pages/workspace/index.ar.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/index.bn.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/index.de.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/index.es.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/index.fa.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/index.fi.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/index.fr.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/index.he.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/index.hi.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/index.id.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/index.it.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/index.ja.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/index.ko.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/index.nl.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/index.pl.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/index.pt_BR.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/index.ru.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/index.th.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/index.tr.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/index.ur.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/index.vi.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
+    "pages/workspace/index.zh.yml": {
+        "document_title": {
+            "hash": "441180114a79262796af18bc792518a2",
+            "engine": "syrtis"
+        }
+    },
     "pages/workspace/slide.ar.yml": {
         "page_icon": {
             "hash": "af140f347cd00ec10fcdd3aa7dc691a7",
@@ -966,6 +1098,10 @@
         }
     },
     "pages/workspace/slides.ar.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        },
         "inspector.next": {
             "hash": "81e7e19c1094d0fec66b82b44d15dfef",
             "engine": "syrtis"
@@ -1008,6 +1144,10 @@
         }
     },
     "pages/workspace/slides.bn.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        },
         "inspector.next": {
             "hash": "81e7e19c1094d0fec66b82b44d15dfef",
             "engine": "syrtis"
@@ -1050,6 +1190,10 @@
         }
     },
     "pages/workspace/slides.de.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        },
         "inspector.next": {
             "hash": "81e7e19c1094d0fec66b82b44d15dfef",
             "engine": "syrtis"
@@ -1092,6 +1236,10 @@
         }
     },
     "pages/workspace/slides.es.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        },
         "inspector.next": {
             "hash": "81e7e19c1094d0fec66b82b44d15dfef",
             "engine": "syrtis"
@@ -1134,6 +1282,10 @@
         }
     },
     "pages/workspace/slides.fa.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        },
         "inspector.next": {
             "hash": "81e7e19c1094d0fec66b82b44d15dfef",
             "engine": "syrtis"
@@ -1176,6 +1328,10 @@
         }
     },
     "pages/workspace/slides.fi.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        },
         "inspector.next": {
             "hash": "81e7e19c1094d0fec66b82b44d15dfef",
             "engine": "syrtis"
@@ -1217,7 +1373,17 @@
             "engine": "syrtis"
         }
     },
+    "pages/workspace/slides.fr.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        }
+    },
     "pages/workspace/slides.he.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        },
         "inspector.next": {
             "hash": "81e7e19c1094d0fec66b82b44d15dfef",
             "engine": "syrtis"
@@ -1260,6 +1426,10 @@
         }
     },
     "pages/workspace/slides.hi.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        },
         "inspector.next": {
             "hash": "81e7e19c1094d0fec66b82b44d15dfef",
             "engine": "syrtis"
@@ -1302,6 +1472,10 @@
         }
     },
     "pages/workspace/slides.id.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        },
         "inspector.next": {
             "hash": "81e7e19c1094d0fec66b82b44d15dfef",
             "engine": "syrtis"
@@ -1344,6 +1518,10 @@
         }
     },
     "pages/workspace/slides.it.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        },
         "inspector.next": {
             "hash": "81e7e19c1094d0fec66b82b44d15dfef",
             "engine": "syrtis"
@@ -1386,6 +1564,10 @@
         }
     },
     "pages/workspace/slides.ja.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        },
         "inspector.next": {
             "hash": "81e7e19c1094d0fec66b82b44d15dfef",
             "engine": "syrtis"
@@ -1428,6 +1610,10 @@
         }
     },
     "pages/workspace/slides.ko.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        },
         "inspector.next": {
             "hash": "81e7e19c1094d0fec66b82b44d15dfef",
             "engine": "syrtis"
@@ -1470,6 +1656,10 @@
         }
     },
     "pages/workspace/slides.nl.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        },
         "inspector.next": {
             "hash": "81e7e19c1094d0fec66b82b44d15dfef",
             "engine": "syrtis"
@@ -1512,6 +1702,10 @@
         }
     },
     "pages/workspace/slides.pl.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        },
         "inspector.next": {
             "hash": "81e7e19c1094d0fec66b82b44d15dfef",
             "engine": "syrtis"
@@ -1554,6 +1748,10 @@
         }
     },
     "pages/workspace/slides.pt_BR.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        },
         "inspector.next": {
             "hash": "81e7e19c1094d0fec66b82b44d15dfef",
             "engine": "syrtis"
@@ -1596,6 +1794,10 @@
         }
     },
     "pages/workspace/slides.ru.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        },
         "inspector.next": {
             "hash": "81e7e19c1094d0fec66b82b44d15dfef",
             "engine": "syrtis"
@@ -1638,6 +1840,10 @@
         }
     },
     "pages/workspace/slides.th.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        },
         "inspector.next": {
             "hash": "81e7e19c1094d0fec66b82b44d15dfef",
             "engine": "syrtis"
@@ -1680,6 +1886,10 @@
         }
     },
     "pages/workspace/slides.tr.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        },
         "inspector.next": {
             "hash": "81e7e19c1094d0fec66b82b44d15dfef",
             "engine": "syrtis"
@@ -1722,6 +1932,10 @@
         }
     },
     "pages/workspace/slides.ur.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        },
         "inspector.next": {
             "hash": "81e7e19c1094d0fec66b82b44d15dfef",
             "engine": "syrtis"
@@ -1764,6 +1978,10 @@
         }
     },
     "pages/workspace/slides.vi.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        },
         "inspector.next": {
             "hash": "81e7e19c1094d0fec66b82b44d15dfef",
             "engine": "syrtis"
@@ -1806,6 +2024,10 @@
         }
     },
     "pages/workspace/slides.zh.yml": {
+        "document_title": {
+            "hash": "30ae967700a8e64a50d581022c87e071",
+            "engine": "syrtis"
+        },
         "inspector.next": {
             "hash": "81e7e19c1094d0fec66b82b44d15dfef",
             "engine": "syrtis"

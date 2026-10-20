@@ -19,9 +19,10 @@ en:
     next: Next
 
 fr:
-  page_title: Éditeur de diapositives
+  page_title: 'Éditeur de diapositives'
+  document_title: 'Un éditeur de diapositives sur un agencement de workspace'
   page_description: "Un éditeur de diapositives construit sur l'espace de travail : les diapositives en barre latérale, le canevas au centre, un inspecteur pour la diapositive choisie."
-  page_icon: ph:bold/presentation
+  page_icon: 'ph:bold/presentation'
   slide:
     cover:
       title: Couverture
@@ -39,7 +40,8 @@ fr:
 
 zh:
   page_title: 幻灯片编辑器
-  page_description: "基于工作区布局构建的幻灯片编辑器：侧栏中是幻灯片，中间是画布，另有所选幻灯片的检查器。"
+  document_title: 工作区布局上的幻灯片编辑器
+  page_description: 基于工作区布局构建的幻灯片编辑器：侧栏中是幻灯片，中间是画布，另有所选幻灯片的检查器。
   page_icon: 'ph:bold/presentation'
   slide:
     cover:
@@ -58,7 +60,8 @@ zh:
 
 ar:
   page_title: 'محرر الشرائح'
-  page_description: "محرّر شرائح مبني على تخطيط مساحة العمل: الشرائح في شريط جانبي، اللوحة في الوسط، ومفتّش للشريحة المحددة."
+  document_title: 'محرر شرائح في تخطيط مساحة العمل'
+  page_description: 'محرّر شرائح مبني على تخطيط مساحة العمل: الشرائح في شريط جانبي، اللوحة في الوسط، ومفتّش للشريحة المحددة.'
   page_icon: 'ph:bold/presentation'
   slide:
     cover:
@@ -77,7 +80,8 @@ ar:
 
 hi:
   page_title: 'स्लाइड संपादक'
-  page_description: "वर्कस्पेस लेआउट पर बना स्लाइड एडिटर: साइडबार में स्लाइड, बीच में कैनवास, और चुनी गई स्लाइड के लिए इंस्पेक्टर।"
+  document_title: 'कार्यस्थान लेआउट पर एक स्लाइड संपादक'
+  page_description: 'वर्कस्पेस लेआउट पर बना स्लाइड एडिटर: साइडबार में स्लाइड, बीच में कैनवास, और चुनी गई स्लाइड के लिए इंस्पेक्टर।'
   page_icon: 'ph:bold/presentation'
   slide:
     cover:
@@ -96,7 +100,8 @@ hi:
 
 he:
   page_title: 'עורך שקפים'
-  page_description: "עורך שקופיות הבנוי על פריסת סביבת העבודה: שקופיות בסרגל צד, הקנבס במרכז ופאנל מאפיינים לשקופית הנבחרת."
+  document_title: 'עורך שקפים על פריסת מקום עבודה'
+  page_description: 'עורך שקופיות הבנוי על פריסת סביבת העבודה: שקופיות בסרגל צד, הקנבס במרכז ופאנל מאפיינים לשקופית הנבחרת.'
   page_icon: 'ph:bold/presentation'
   slide:
     cover:
@@ -115,7 +120,8 @@ he:
 
 fa:
   page_title: 'ویرایشگر اسلاید'
-  page_description: "ویرایشگر اسلاید ساخته‌شده روی چیدمان فضای کاری: اسلایدها در نوار کناری، بوم در میانه و بازرسی برای اسلاید انتخاب‌شده."
+  document_title: 'ویرایشگر اسلاید در چیدمان فضای کاری'
+  page_description: 'ویرایشگر اسلاید ساخته‌شده روی چیدمان فضای کاری: اسلایدها در نوار کناری، بوم در میانه و بازرسی برای اسلاید انتخاب‌شده.'
   page_icon: 'ph:bold/presentation'
   slide:
     cover:
@@ -134,7 +140,8 @@ fa:
 
 ur:
   page_title: 'سلائیڈ ایڈیٹر'
-  page_description: "ورک اسپیس لے آؤٹ پر بنا سلائیڈ ایڈیٹر: سائیڈ بار میں سلائیڈز، درمیان میں کینوس، اور منتخب سلائیڈ کے لیے انسپکٹر۔"
+  document_title: 'ایک سلائیڈ ایڈیٹر ورک اسپیس لے آؤٹ پر'
+  page_description: 'ورک اسپیس لے آؤٹ پر بنا سلائیڈ ایڈیٹر: سائیڈ بار میں سلائیڈز، درمیان میں کینوس، اور منتخب سلائیڈ کے لیے انسپکٹر۔'
   page_icon: 'ph:bold/presentation'
   slide:
     cover:
@@ -153,7 +160,8 @@ ur:
 
 ja:
   page_title: スライド編集
-  page_description: "ワークスペースのレイアウト上に作ったスライドエディター。サイドバーにスライド、中央にキャンバス、選択中のスライドのインスペクター。"
+  document_title: ワークスペースレイアウトのスライドエディター
+  page_description: ワークスペースのレイアウト上に作ったスライドエディター。サイドバーにスライド、中央にキャンバス、選択中のスライドのインスペクター。
   page_icon: 'ph:bold/presentation'
   slide:
     cover:
@@ -172,7 +180,8 @@ ja:
 
 ko:
   page_title: '슬라이드 편집기'
-  page_description: "작업 공간 레이아웃 위에 만든 슬라이드 편집기: 사이드바의 슬라이드, 가운데 캔버스, 선택한 슬라이드의 인스펙터."
+  document_title: '작업 공간 레이아웃의 슬라이드 편집기'
+  page_description: '작업 공간 레이아웃 위에 만든 슬라이드 편집기: 사이드바의 슬라이드, 가운데 캔버스, 선택한 슬라이드의 인스펙터.'
   page_icon: 'ph:bold/presentation'
   slide:
     cover:
@@ -191,7 +200,8 @@ ko:
 
 bn:
   page_title: 'স্লাইড সম্পাদক'
-  page_description: "ওয়ার্কস্পেস লেআউটের উপর তৈরি স্লাইড এডিটর: সাইডবারে স্লাইড, মাঝখানে ক্যানভাস, নির্বাচিত স্লাইডের জন্য ইন্সপেক্টর।"
+  document_title: 'একটি কাজের স্থান বিন্যাসে স্লাইড সম্পাদকের জন্য'
+  page_description: 'ওয়ার্কস্পেস লেআউটের উপর তৈরি স্লাইড এডিটর: সাইডবারে স্লাইড, মাঝখানে ক্যানভাস, নির্বাচিত স্লাইডের জন্য ইন্সপেক্টর।'
   page_icon: 'ph:bold/presentation'
   slide:
     cover:
@@ -210,7 +220,8 @@ bn:
 
 th:
   page_title: ตัวแก้ไขสไลด์
-  page_description: "ตัวแก้ไขสไลด์ที่สร้างบนเลย์เอาต์พื้นที่ทำงาน: สไลด์ในแถบด้านข้าง แคนวาสตรงกลาง และตัวตรวจสอบสำหรับสไลด์ที่เลือก"
+  document_title: ตัวแก้ไขสไลด์ในเลย์เอาต์พื้นที่ทำงาน
+  page_description: 'ตัวแก้ไขสไลด์ที่สร้างบนเลย์เอาต์พื้นที่ทำงาน: สไลด์ในแถบด้านข้าง แคนวาสตรงกลาง และตัวตรวจสอบสำหรับสไลด์ที่เลือก'
   page_icon: 'ph:bold/presentation'
   slide:
     cover:
@@ -229,7 +240,8 @@ th:
 
 de:
   page_title: Foliendesigner
-  page_description: "Ein Folieneditor auf Basis des Arbeitsbereichs: Folien in der Seitenleiste, die Arbeitsfläche in der Mitte, ein Inspektor für die gewählte Folie."
+  document_title: 'Ein Folieneditor in einem Arbeitsbereich-Layout'
+  page_description: 'Ein Folieneditor auf Basis des Arbeitsbereichs: Folien in der Seitenleiste, die Arbeitsfläche in der Mitte, ein Inspektor für die gewählte Folie.'
   page_icon: 'ph:bold/presentation'
   slide:
     cover:
@@ -248,7 +260,8 @@ de:
 
 fi:
   page_title: Diaeditori
-  page_description: "Työtilan asettelun päälle rakennettu diaeditori: diat sivupalkissa, piirtoalusta keskellä ja tarkastin valitulle dialle."
+  document_title: 'Diaeditori työtilan asettelussa'
+  page_description: 'Työtilan asettelun päälle rakennettu diaeditori: diat sivupalkissa, piirtoalusta keskellä ja tarkastin valitulle dialle.'
   page_icon: 'ph:bold/presentation'
   slide:
     cover:
@@ -267,7 +280,8 @@ fi:
 
 ru:
   page_title: 'Редактор слайдов'
-  page_description: "Редактор слайдов на основе рабочей области: слайды на боковой панели, холст в центре, инспектор выбранного слайда."
+  document_title: 'Редактор слайдов в макете рабочего пространства'
+  page_description: 'Редактор слайдов на основе рабочей области: слайды на боковой панели, холст в центре, инспектор выбранного слайда.'
   page_icon: 'ph:bold/presentation'
   slide:
     cover:
@@ -286,7 +300,8 @@ ru:
 
 pl:
   page_title: 'Edytor slajdów'
-  page_description: "Edytor slajdów zbudowany na układzie przestrzeni roboczej: slajdy na pasku bocznym, płótno pośrodku, inspektor wybranego slajdu."
+  document_title: 'Edytor slajdów w układzie roboczym'
+  page_description: 'Edytor slajdów zbudowany na układzie przestrzeni roboczej: slajdy na pasku bocznym, płótno pośrodku, inspektor wybranego slajdu.'
   page_icon: 'ph:bold/presentation'
   slide:
     cover:
@@ -305,7 +320,8 @@ pl:
 
 es:
   page_title: 'Editor de diapositivas'
-  page_description: "Un editor de diapositivas construido sobre el espacio de trabajo: diapositivas en una barra lateral, el lienzo en el centro y un inspector de la diapositiva elegida."
+  document_title: 'Un editor de diapositivas en un diseño de espacio de trabajo'
+  page_description: 'Un editor de diapositivas construido sobre el espacio de trabajo: diapositivas en una barra lateral, el lienzo en el centro y un inspector de la diapositiva elegida.'
   page_icon: 'ph:bold/presentation'
   slide:
     cover:
@@ -324,7 +340,8 @@ es:
 
 it:
   page_title: 'Editor di diapositive'
-  page_description: "Un editor di slide costruito sullo spazio di lavoro: le slide in una barra laterale, la tela al centro, un ispettore per la slide selezionata."
+  document_title: 'Un editor di diapositive in un layout di lavoro'
+  page_description: 'Un editor di slide costruito sullo spazio di lavoro: le slide in una barra laterale, la tela al centro, un ispettore per la slide selezionata.'
   page_icon: 'ph:bold/presentation'
   slide:
     cover:
@@ -343,7 +360,8 @@ it:
 
 pt_BR:
   page_title: 'Editor de slides'
-  page_description: "Um editor de slides construído sobre o espaço de trabalho: slides numa barra lateral, a tela no centro e um inspetor do slide selecionado."
+  document_title: 'Um editor de slides em um layout de espaço de trabalho'
+  page_description: 'Um editor de slides construído sobre o espaço de trabalho: slides numa barra lateral, a tela no centro e um inspetor do slide selecionado.'
   page_icon: 'ph:bold/presentation'
   slide:
     cover:
@@ -362,7 +380,8 @@ pt_BR:
 
 tr:
   page_title: 'Slayt düzenleyici'
-  page_description: "Çalışma alanı düzeni üzerine kurulu bir slayt düzenleyici: kenar çubuğunda slaytlar, ortada tuval, seçili slayt için bir denetçi."
+  document_title: 'Bir çalışma alanı düzeninde slayt editörü'
+  page_description: 'Çalışma alanı düzeni üzerine kurulu bir slayt düzenleyici: kenar çubuğunda slaytlar, ortada tuval, seçili slayt için bir denetçi.'
   page_icon: 'ph:bold/presentation'
   slide:
     cover:
@@ -381,7 +400,8 @@ tr:
 
 vi:
   page_title: 'Trình chỉnh sửa slide'
-  page_description: "Trình chỉnh sửa trang chiếu xây trên bố cục không gian làm việc: trang chiếu ở thanh bên, khung vẽ ở giữa, bảng thuộc tính cho trang đang chọn."
+  document_title: 'Trình chỉnh sửa slide trên bố cục không gian làm việc'
+  page_description: 'Trình chỉnh sửa trang chiếu xây trên bố cục không gian làm việc: trang chiếu ở thanh bên, khung vẽ ở giữa, bảng thuộc tính cho trang đang chọn.'
   page_icon: 'ph:bold/presentation'
   slide:
     cover:
@@ -400,7 +420,8 @@ vi:
 
 id:
   page_title: 'Editor Slide'
-  page_description: "Editor salindia yang dibangun di atas tata letak ruang kerja: salindia di bilah samping, kanvas di tengah, inspektur untuk salindia terpilih."
+  document_title: 'Editor slide di tata letak ruang kerja'
+  page_description: 'Editor salindia yang dibangun di atas tata letak ruang kerja: salindia di bilah samping, kanvas di tengah, inspektur untuk salindia terpilih.'
   page_icon: 'ph:bold/presentation'
   slide:
     cover:
@@ -419,6 +440,7 @@ id:
 
 nl:
   page_title: Dia-editor
+  document_title: 'Een dia-editor op een werkruimte-indeling'
   page_description: "Een dia-editor gebouwd op de werkruimte-indeling: dia's in een zijbalk, het canvas in het midden, een inspector voor de gekozen dia."
   page_icon: 'ph:bold/presentation'
   slide:
