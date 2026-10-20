@@ -38,7 +38,8 @@
     "pages/workspace/index.fr.yml": {
         "document_title": {
             "hash": "441180114a79262796af18bc792518a2",
-            "engine": "syrtis"
+            "engine": "syrtis",
+            "reviewed": "agent"
         }
     },
     "pages/workspace/index.he.yml": {
