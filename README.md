@@ -1,6 +1,6 @@
 # symfony-workspace-demo
 
-Version: 2.0.4
+Version: 2.0.5
 
 Demo pages of symfony-workspace
 
@@ -24,9 +24,9 @@ The suite includes packages for configuration management, file handling, prompts
 ## Dependencies
 
 - php: >=8.5
-- wexample/symfony-design-system: >=37.0.0
+- wexample/symfony-design-system: >=38.0.0
 - wexample/symfony-helpers: >=17.0.0
-- wexample/symfony-loader: >=23.2.0
+- wexample/symfony-loader: >=23.3.0
 - wexample/symfony-workspace: >=2.0.0
 
 ## Versioning & Compatibility Policy
