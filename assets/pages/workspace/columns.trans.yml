@@ -219,12 +219,12 @@ fr:
       title: 'Chaque colonne nomme sa largeur'
       description: "Rien ne prend ce qui reste ici, puisqu'il n'y en a pas : la ligne est plus longue que la page intentionnellement. Une région qui ne nomme pas de taille revient à une colonne suffisamment large pour contenir quelque chose, et celles-ci nomment la leur — 24rem chacune, cinq au total."
     fold:
-      title: 'Plier une région'
+      title: 'Replier une zone'
       description: "Chaque colonne ici est une `zone-collapsible`. Pliée, elle ne disparaît pas : elle garde sa place dans la ligne et son sol, et sa barre se tourne sur le côté — donc le bouton qui l'a pliée est le bouton qui l'ouvre, et rien à l'extérieur n'a besoin de savoir qu'elle existe."
       more: "Nommée, une région est retenue : l'état est écrit dans l'état de l'ui sous son nom et relu lorsque la page est servie, donc elle arrive pliée plutôt que de se plier sous vos yeux. La troisième colonne s'ouvre pliée, et la dernière est rendue par un vue — même composant, mêmes classes, même clé."
   column:
     first: Lis-moi
-    second: Arriéré
+    second: 'Backlog'
     third: 'En cours'
     fourth: Révision
     fifth: Fait

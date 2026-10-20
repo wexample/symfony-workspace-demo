@@ -259,7 +259,7 @@ fr:
     success: Nominal
     warning: Dégradé
     error: Échec
-    running: Vidange
+    running: 'Vidage en cours'
   tile:
     traffic:
       title: Trafic
@@ -275,7 +275,7 @@ fr:
       description: "Redimensionné, une zone conserve la taille à laquelle elle a été laissée le long de l'axe de sa division, et revient avec elle ; un double clic sur la poignée la ramène à la division."
     queue:
       title: "File d'attente"
-      figure: '318 emplois'
+      figure: '318 tâches'
       description: "`zone--split--flush` réduit l'écart à un pixel, le sol du mur traçant la ligne entre les tuiles. Une classe sur le mur suffit, les rangées l'héritent."
     deploys:
       title: Déploiements

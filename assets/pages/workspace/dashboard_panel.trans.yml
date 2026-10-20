@@ -46,7 +46,7 @@ ar:
       instances: '3 / 3'
       description: 'صفحة خاصة بها، تم تحميلها في هذه المنطقة بواسطة تضمين. الصليب في زاويتها يغلقها: المنطقة تخرج والآخرون يشاركون غرفتها.'
     worker:
-      title: 'عامل قائمة الانتظار'
+      title: 'معالج قائمة الانتظار'
       state: يتقدم
       version: 2.3.1
       instances: '2 / 4'
@@ -71,7 +71,7 @@ bn:
       instances: '3 / 3'
       description: 'এটির জন্য একটি পৃষ্ঠা, যা এই অঞ্চলে একটি এমবেড দ্বারা লোড করা হয়েছে। কোণের ক্রসটি এটি বন্ধ করে: অঞ্চলটি বেরিয়ে আসে এবং অন্যরা এর কক্ষ শেয়ার করে।'
     worker:
-      title: 'কিউ কর্মী'
+      title: 'কিউ ওয়ার্কার'
       state: 'পিছিয়ে পড়া'
       version: 2.3.1
       instances: '2 / 4'
@@ -96,7 +96,7 @@ de:
       instances: '3 / 3'
       description: 'Eine eigene Seite, die durch ein Embed in diesen Bereich geladen wird. Das Kreuz in der Ecke schließt sie: der Bereich tritt heraus und die anderen teilen sich den Raum.'
     worker:
-      title: Warteschlangenarbeiter
+      title: 'Queue-Worker'
       state: Aufholen
       version: 2.3.1
       instances: '2 / 4'
@@ -121,7 +121,7 @@ es:
       instances: '3 / 3'
       description: 'Una página propia, cargada en esta zona por un incrustado. La cruz en su esquina la cierra: la zona se retira y las otras comparten su espacio.'
     worker:
-      title: 'Trabajador de cola'
+      title: 'Worker de cola'
       state: Recuperando
       version: 2.3.1
       instances: '2 / 4'
@@ -146,7 +146,7 @@ fa:
       instances: '3 / 3'
       description: 'صفحه‌ای مستقل که در این ناحیه با یک جاسازی بارگذاری شده است. علامت ضربدر در گوشه آن، آن را می‌بندد: ناحیه خارج می‌شود و سایرین اتاق آن را به اشتراک می‌گذارند.'
     worker:
-      title: 'کارگر صف'
+      title: 'پردازشگر صف'
       state: 'در حال جبران'
       version: 2.3.1
       instances: '2 / 4'
@@ -171,7 +171,7 @@ fi:
       instances: '3 / 3'
       description: 'Oma sivu, ladattu tähän alueeseen upotuksena. Kulmassa oleva risti sulkee sen: alue poistuu ja muut jakavat sen tilan.'
     worker:
-      title: Jonotyöntekijä
+      title: 'Jonon käsittelijä'
       state: 'Kahdessa mukana'
       version: 2.3.1
       instances: '2 / 4'
@@ -196,8 +196,8 @@ fr:
       instances: '3 / 3'
       description: 'Une page à part, chargée dans cette zone par un embed. La croix dans son coin la ferme : la zone sort et les autres partagent son espace.'
     worker:
-      title: "Travailleur de file d'attente"
-      state: 'En retard'
+      title: 'Worker de file d''attente'
+      state: 'Rattrapage en cours'
       version: 2.3.1
       instances: '2 / 4'
       description: "Chargé paresseusement — seulement lorsqu'il est défilé dans la vue — et répondu tardivement, donc le spinner a le temps d'être vu."
@@ -221,7 +221,7 @@ he:
       instances: '3 / 3'
       description: 'דף משלו, נטען לאזור זה על ידי הטמעה. החץ בפינה שלו סוגר אותו: האזור יוצא החוצה ואחרים משתפים את החדר שלו.'
     worker:
-      title: 'עובד תור'
+      title: 'מעבד תור'
       state: מתעדכן
       version: 2.3.1
       instances: '2 / 4'
@@ -246,7 +246,7 @@ hi:
       instances: '3 / 3'
       description: 'इस क्षेत्र में एम्बेड द्वारा लोड किया गया एक अलग पृष्ठ। इसके कोने में क्रॉस इसे बंद करता है: क्षेत्र बाहर निकलता है और अन्य इसका कमरा साझा करते हैं।'
     worker:
-      title: 'क्यू कार्यकर्ता'
+      title: 'क्यू वर्कर'
       state: पछाड़ना
       version: 2.3.1
       instances: '2 / 4'
@@ -271,7 +271,7 @@ id:
       instances: '3 / 3'
       description: 'Halaman tersendiri, dimuat ke dalam zona ini melalui penyematan. Silang di sudutnya menutupnya: zona keluar dan yang lain berbagi ruangnya.'
     worker:
-      title: 'Pekerja antrean'
+      title: 'Worker antrean'
       state: 'Menangkap kembali'
       version: 2.3.1
       instances: '2 / 4'
@@ -296,7 +296,7 @@ it:
       instances: '3 / 3'
       description: "Una pagina a sé, caricata in questa zona tramite un embed. La croce nell'angolo la chiude: la zona si ritira e le altre condividono il suo spazio."
     worker:
-      title: 'Lavoratore in coda'
+      title: 'Worker della coda'
       state: Recupero
       version: 2.3.1
       instances: '2 / 4'
@@ -371,7 +371,7 @@ nl:
       instances: '3 / 3'
       description: 'Een eigen pagina, geladen in deze zone via een embed. De kruis in de hoek sluit het: de zone stapt eruit en de anderen delen de ruimte.'
     worker:
-      title: Wachtrijwerker
+      title: 'Wachtrijworker'
       state: Inhalen
       version: 2.3.1
       instances: '2 / 4'
@@ -396,7 +396,7 @@ pl:
       instances: '3 / 3'
       description: 'Strona na własny użytek, załadowana w tej strefie przez osadzenie. Krzyżyk w rogu zamyka ją: strefa wychodzi, a pozostałe dzielą jej przestrzeń.'
     worker:
-      title: 'Pracownik kolejki'
+      title: 'Worker kolejki'
       state: 'Nadrabianie zaległości'
       version: 2.3.1
       instances: '2 / 4'
@@ -421,7 +421,7 @@ pt_BR:
       instances: '3 / 3'
       description: "Uma página própria, carregada nesta zona por um embed. O 'x' no canto fecha-a: a zona sai e as outras compartilham seu espaço."
     worker:
-      title: 'Trabalhador de Fila'
+      title: 'Worker de fila'
       state: Recuperando
       version: 2.3.1
       instances: '2 / 4'
@@ -446,7 +446,7 @@ ru:
       instances: '3 / 3'
       description: 'Отдельная страница, загруженная в эту зону через встраивание. Крестик в углу закрывает её: зона выходит, а остальные делят её пространство.'
     worker:
-      title: 'Рабочий процесс очереди'
+      title: 'Обработчик очереди'
       state: Навысыпаемся
       version: 2.3.1
       instances: '2 / 4'
@@ -471,7 +471,7 @@ th:
       instances: '3 / 3'
       description: 'หน้าที่แยกต่างหาก ถูกโหลดเข้าสู่โซนนี้โดยการฝัง ขีดกากบาทในมุมของมันปิดหน้าต่าง: โซนจะออกไปและโซนอื่น ๆ จะใช้พื้นที่ของมันร่วมกัน'
     worker:
-      title: งานในคิว
+      title: 'ตัวประมวลผลคิว'
       state: กำลังตามทัน
       version: 2.3.1
       instances: '2 / 4'
@@ -496,7 +496,7 @@ tr:
       instances: '3 / 3'
       description: 'Bu alana yerleştirilmiş kendi sayfası. Köşesindeki çarpı, onu kapatır: alan çıkar ve diğerleri onun odasını paylaşır.'
     worker:
-      title: 'Kuyruk işçi'
+      title: 'Kuyruk işleyicisi'
       state: Yetişiyor
       version: 2.3.1
       instances: '2 / 4'
@@ -521,7 +521,7 @@ ur:
       instances: '3 / 3'
       description: 'اس علاقے میں شامل کرکے لوڈ ہونے والا اپنا صفحہ۔ اس کے کونے میں کراس اسے بند کرتا ہے: یہ علاقہ باہر نکلتا ہے اور دوسرے اس کا کمرہ بانٹتے ہیں۔'
     worker:
-      title: 'قطار کا کارکن'
+      title: 'قطار پروسیسر'
       state: 'پچھلے کام کو مکمل کر رہا ہے'
       version: 2.3.1
       instances: '2 / 4'
@@ -546,7 +546,7 @@ vi:
       instances: '3 / 3'
       description: 'Một trang riêng biệt, được tải vào khu vực này qua một phần nhúng. Dấu chéo ở góc của nó sẽ đóng lại: khu vực đó sẽ thoát ra và các khu vực khác chia sẻ không gian của nó.'
     worker:
-      title: 'Công nhân hàng đợi'
+      title: 'Tiến trình xử lý hàng đợi'
       state: 'Đang theo kịp'
       version: 2.3.1
       instances: '2 / 4'
@@ -571,7 +571,7 @@ zh:
       instances: '3 / 3'
       description: 一个独立的页面，通过嵌入加载到这个区域。角落的叉号关闭它：区域退出，其他区域共享它的空间。
     worker:
-      title: 队列工作者
+      title: '队列处理进程'
       state: 赶上进度
       version: 2.3.1
       instances: '2 / 4'
