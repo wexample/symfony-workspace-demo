@@ -2,6 +2,7 @@ en:
   ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
 
   page_title: Workspace
+  document_title: "A three-pane workspace layout"
   page_description: "A workspace layout of three side-by-side regions, each scrolling on its own and sized independently, separated only by the space between them."
   page_icon: ph:bold/sidebar-simple
 

@@ -1,5 +1,6 @@
 en:
   page_title: Slide editor
+  document_title: "A slide editor on a workspace layout"
   page_description: "A slide editor built on the workspace layout: slides in a sidebar, the canvas in the middle, an inspector for the selected slide."
   page_icon: ph:bold/presentation
   slide:
