@@ -3,7 +3,6 @@ en:
 
   page_title: "Composable"
   page_icon: ph:bold/layout
-  hint: "Point at a zone for its menu: cut it, close it, change what it shows."
   widget:
     color:
       label: "Colours"
@@ -20,7 +19,6 @@ fr:
 
   page_title: "Composable"
   page_icon: ph:bold/layout
-  hint: "Survolez une zone pour son menu : la couper, la fermer, changer ce qu’elle affiche."
   widget:
     color:
       label: "Couleurs"
@@ -37,7 +35,6 @@ zh:
 
   page_title: "可组合"
   page_icon: ph:bold/layout
-  hint: "将指针移到区域上打开其菜单:拆分、关闭、更换显示内容。"
   widget:
     color:
       label: "颜色"
@@ -54,7 +51,6 @@ ar:
 
   page_title: "قابل للتركيب"
   page_icon: ph:bold/layout
-  hint: "مرّر المؤشر على منطقة لقائمتها: قسّمها، أغلقها، غيّر ما تعرضه."
   widget:
     color:
       label: "الألوان"
@@ -71,7 +67,6 @@ hi:
 
   page_title: "संयोज्य"
   page_icon: ph:bold/layout
-  hint: "मेनू के लिए किसी क्षेत्र पर पॉइंटर ले जाएँ: उसे बाँटें, बंद करें, उसमें दिखने वाली चीज़ बदलें।"
   widget:
     color:
       label: "रंग"
@@ -88,7 +83,6 @@ he:
 
   page_title: "ניתן להרכבה"
   page_icon: ph:bold/layout
-  hint: "רחפו מעל אזור לתפריט שלו: לפצל, לסגור, להחליף את מה שהוא מציג."
   widget:
     color:
       label: "צבעים"
@@ -105,7 +99,6 @@ fa:
 
   page_title: "ترکیب‌پذیر"
   page_icon: ph:bold/layout
-  hint: "نشانگر را روی ناحیه ببرید تا منویش باز شود: تقسیم، بستن، تغییر آنچه نشان می‌دهد."
   widget:
     color:
       label: "رنگ‌ها"
@@ -122,7 +115,6 @@ ur:
 
   page_title: "قابلِ ترتیب"
   page_icon: ph:bold/layout
-  hint: "مینو کے لیے کسی حصے پر پوائنٹر لے جائیں: اسے تقسیم کریں، بند کریں، دکھائی جانے والی چیز بدلیں۔"
   widget:
     color:
       label: "رنگ"
@@ -139,7 +131,6 @@ ja:
 
   page_title: "コンポーザブル"
   page_icon: ph:bold/layout
-  hint: "領域にポインターを置くとメニュー:分割、閉じる、表示内容の変更。"
   widget:
     color:
       label: "カラー"
@@ -156,7 +147,6 @@ ko:
 
   page_title: "조합형"
   page_icon: ph:bold/layout
-  hint: "영역에 포인터를 올리면 메뉴: 분할, 닫기, 표시 내용 변경."
   widget:
     color:
       label: "색상"
@@ -173,7 +163,6 @@ bn:
 
   page_title: "সংযোজ্য"
   page_icon: ph:bold/layout
-  hint: "মেনুর জন্য কোনো অংশে পয়েন্টার রাখুন: ভাগ করুন, বন্ধ করুন, দেখানো জিনিস বদলান।"
   widget:
     color:
       label: "রং"
@@ -190,7 +179,6 @@ th:
 
   page_title: "ประกอบได้"
   page_icon: ph:bold/layout
-  hint: "ชี้ที่พื้นที่เพื่อเปิดเมนู: แบ่ง ปิด เปลี่ยนสิ่งที่แสดง"
   widget:
     color:
       label: "สี"
@@ -207,7 +195,6 @@ de:
 
   page_title: "Zusammenstellbar"
   page_icon: ph:bold/layout
-  hint: "Zeigen Sie auf einen Bereich für sein Menü: teilen, schließen, ändern, was er zeigt."
   widget:
     color:
       label: "Farben"
@@ -224,7 +211,6 @@ fi:
 
   page_title: "Koottava"
   page_icon: ph:bold/layout
-  hint: "Osoita aluetta avataksesi sen valikon: jaa, sulje, vaihda sen sisältö."
   widget:
     color:
       label: "Värit"
@@ -241,7 +227,6 @@ ru:
 
   page_title: "Компонуемый"
   page_icon: ph:bold/layout
-  hint: "Наведите на зону, чтобы открыть её меню: разделить, закрыть, сменить содержимое."
   widget:
     color:
       label: "Цвета"
@@ -258,7 +243,6 @@ pl:
 
   page_title: "Komponowalny"
   page_icon: ph:bold/layout
-  hint: "Najedź na strefę, by otworzyć jej menu: podziel, zamknij, zmień zawartość."
   widget:
     color:
       label: "Kolory"
@@ -275,7 +259,6 @@ es:
 
   page_title: "Componible"
   page_icon: ph:bold/layout
-  hint: "Pase el puntero sobre una zona para su menú: dividirla, cerrarla, cambiar lo que muestra."
   widget:
     color:
       label: "Colores"
@@ -292,7 +275,6 @@ it:
 
   page_title: "Componibile"
   page_icon: ph:bold/layout
-  hint: "Passa sopra una zona per il suo menu: dividerla, chiuderla, cambiare ciò che mostra."
   widget:
     color:
       label: "Colori"
@@ -309,7 +291,6 @@ pt_BR:
 
   page_title: "Componível"
   page_icon: ph:bold/layout
-  hint: "Aponte para uma zona para ver o menu: dividir, fechar, trocar o que ela mostra."
   widget:
     color:
       label: "Cores"
@@ -326,7 +307,6 @@ tr:
 
   page_title: "Birleştirilebilir"
   page_icon: ph:bold/layout
-  hint: "Menüsü için bir alanın üzerine gelin: bölün, kapatın, gösterdiğini değiştirin."
   widget:
     color:
       label: "Renkler"
@@ -343,7 +323,6 @@ vi:
 
   page_title: "Có thể ghép"
   page_icon: ph:bold/layout
-  hint: "Trỏ vào một vùng để mở menu: chia, đóng, đổi nội dung hiển thị."
   widget:
     color:
       label: "Màu sắc"
@@ -360,7 +339,6 @@ id:
 
   page_title: "Dapat disusun"
   page_icon: ph:bold/layout
-  hint: "Arahkan ke zona untuk menunya: bagi, tutup, ganti isinya."
   widget:
     color:
       label: "Warna"
@@ -377,7 +355,6 @@ nl:
 
   page_title: "Samenstelbaar"
   page_icon: ph:bold/layout
-  hint: "Wijs een zone aan voor het menu: splitsen, sluiten, wijzigen wat ze toont."
   widget:
     color:
       label: "Kleuren"
