@@ -1,0 +1,12 @@
+@use '@wexample/symfony-design-system/css/shapes/form/base';
+
+.demo-widget-note {
+  display: flex;
+  height: 100%;
+  padding: var(--space-3);
+}
+
+.demo-widget-note--text {
+  flex: 1;
+  resize: none;
+}

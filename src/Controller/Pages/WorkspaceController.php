@@ -14,8 +14,8 @@ use Wexample\SymfonyWorkspaceDemo\Traits\SymfonyWorkspaceDemoBundleClassTrait;
 /**
  * Screens made of regions, each page one arrangement beside the tree moving
  * between them: three regions, a sized one, a row of columns wider than the
- * screen, a wall of tiles, and a slide editor whose regions share what is
- * chosen in one of them.
+ * screen, a wall of tiles, a slide editor whose regions share what is
+ * chosen in one of them, and a screen the visitor composes of widgets.
  */
 #[Route(path: '/workspace/', name: 'workspace_demo_')]
 final class WorkspaceController extends AbstractPagesController
@@ -33,6 +33,8 @@ final class WorkspaceController extends AbstractPagesController
     final public const string ROUTE_DASHBOARD_PANEL = 'dashboard_panel';
 
     final public const string ROUTE_SLIDES = 'slides';
+
+    final public const string ROUTE_COMPOSABLE = 'composable';
 
     final public const string ROUTE_SLIDE = 'slide';
 
@@ -85,6 +87,16 @@ final class WorkspaceController extends AbstractPagesController
             'service' => (string) $request->query->get('service', 'api'),
             'delay' => $delay,
         ]);
+    }
+
+    /**
+     * A screen the visitor composes: zones cut, sized and given widgets,
+     * the arrangement kept for them.
+     */
+    #[Route(path: self::ROUTE_COMPOSABLE, name: self::ROUTE_COMPOSABLE)]
+    public function composable(): Response
+    {
+        return $this->renderPage(self::ROUTE_COMPOSABLE);
     }
 
     #[Route(path: self::ROUTE_SLIDES, name: self::ROUTE_SLIDES)]

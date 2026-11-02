@@ -1,0 +1,390 @@
+en:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "Composable"
+  page_icon: ph:bold/layout
+  hint: "Point at a zone for its menu: cut it, close it, change what it shows."
+  widget:
+    color:
+      label: "Colours"
+      description: "Tells the board the colour pressed."
+    swatch:
+      label: "Swatch"
+      description: "Shows the last colour told on the board."
+    note:
+      label: "Note"
+      description: "A note kept with its zone."
+
+fr:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "Composable"
+  page_icon: ph:bold/layout
+  hint: "Survolez une zone pour son menu : la couper, la fermer, changer ce qu’elle affiche."
+  widget:
+    color:
+      label: "Couleurs"
+      description: "Dit au tableau la couleur pressée."
+    swatch:
+      label: "Aperçu"
+      description: "Montre la dernière couleur dite au tableau."
+    note:
+      label: "Note"
+      description: "Une note gardée avec sa zone."
+
+zh:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "可组合"
+  page_icon: ph:bold/layout
+  hint: "将指针移到区域上打开其菜单:拆分、关闭、更换显示内容。"
+  widget:
+    color:
+      label: "颜色"
+      description: "把按下的颜色告诉看板。"
+    swatch:
+      label: "色块"
+      description: "显示看板上最后一次告知的颜色。"
+    note:
+      label: "便签"
+      description: "随区域保存的便签。"
+
+ar:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "قابل للتركيب"
+  page_icon: ph:bold/layout
+  hint: "مرّر المؤشر على منطقة لقائمتها: قسّمها، أغلقها، غيّر ما تعرضه."
+  widget:
+    color:
+      label: "الألوان"
+      description: "تُبلغ اللوحة باللون المضغوط."
+    swatch:
+      label: "عيّنة"
+      description: "تعرض آخر لون أُبلغت به اللوحة."
+    note:
+      label: "ملاحظة"
+      description: "ملاحظة محفوظة مع منطقتها."
+
+hi:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "संयोज्य"
+  page_icon: ph:bold/layout
+  hint: "मेनू के लिए किसी क्षेत्र पर पॉइंटर ले जाएँ: उसे बाँटें, बंद करें, उसमें दिखने वाली चीज़ बदलें।"
+  widget:
+    color:
+      label: "रंग"
+      description: "बोर्ड को दबाया गया रंग बताता है।"
+    swatch:
+      label: "नमूना"
+      description: "बोर्ड पर बताया गया अंतिम रंग दिखाता है।"
+    note:
+      label: "नोट"
+      description: "अपने क्षेत्र के साथ रखा गया नोट।"
+
+he:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "ניתן להרכבה"
+  page_icon: ph:bold/layout
+  hint: "רחפו מעל אזור לתפריט שלו: לפצל, לסגור, להחליף את מה שהוא מציג."
+  widget:
+    color:
+      label: "צבעים"
+      description: "מודיע ללוח על הצבע שנלחץ."
+    swatch:
+      label: "דוגמית"
+      description: "מציג את הצבע האחרון שנמסר ללוח."
+    note:
+      label: "פתק"
+      description: "פתק שנשמר עם האזור שלו."
+
+fa:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "ترکیب‌پذیر"
+  page_icon: ph:bold/layout
+  hint: "نشانگر را روی ناحیه ببرید تا منویش باز شود: تقسیم، بستن، تغییر آنچه نشان می‌دهد."
+  widget:
+    color:
+      label: "رنگ‌ها"
+      description: "رنگ فشرده‌شده را به تابلو می‌گوید."
+    swatch:
+      label: "نمونه رنگ"
+      description: "آخرین رنگ گفته‌شده به تابلو را نشان می‌دهد."
+    note:
+      label: "یادداشت"
+      description: "یادداشتی که با ناحیه‌اش نگه داشته می‌شود."
+
+ur:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "قابلِ ترتیب"
+  page_icon: ph:bold/layout
+  hint: "مینو کے لیے کسی حصے پر پوائنٹر لے جائیں: اسے تقسیم کریں، بند کریں، دکھائی جانے والی چیز بدلیں۔"
+  widget:
+    color:
+      label: "رنگ"
+      description: "بورڈ کو دبایا گیا رنگ بتاتا ہے۔"
+    swatch:
+      label: "نمونہ"
+      description: "بورڈ کو بتایا گیا آخری رنگ دکھاتا ہے۔"
+    note:
+      label: "نوٹ"
+      description: "اپنے حصے کے ساتھ رکھا گیا نوٹ۔"
+
+ja:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "コンポーザブル"
+  page_icon: ph:bold/layout
+  hint: "領域にポインターを置くとメニュー:分割、閉じる、表示内容の変更。"
+  widget:
+    color:
+      label: "カラー"
+      description: "押した色をボードに伝えます。"
+    swatch:
+      label: "スウォッチ"
+      description: "ボードに伝えられた最後の色を表示します。"
+    note:
+      label: "メモ"
+      description: "領域とともに保存されるメモ。"
+
+ko:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "조합형"
+  page_icon: ph:bold/layout
+  hint: "영역에 포인터를 올리면 메뉴: 분할, 닫기, 표시 내용 변경."
+  widget:
+    color:
+      label: "색상"
+      description: "누른 색을 보드에 알립니다."
+    swatch:
+      label: "견본"
+      description: "보드에 알려진 마지막 색을 보여 줍니다."
+    note:
+      label: "메모"
+      description: "영역과 함께 저장되는 메모."
+
+bn:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "সংযোজ্য"
+  page_icon: ph:bold/layout
+  hint: "মেনুর জন্য কোনো অংশে পয়েন্টার রাখুন: ভাগ করুন, বন্ধ করুন, দেখানো জিনিস বদলান।"
+  widget:
+    color:
+      label: "রং"
+      description: "চাপা রংটি বোর্ডকে জানায়।"
+    swatch:
+      label: "নমুনা"
+      description: "বোর্ডকে জানানো শেষ রংটি দেখায়।"
+    note:
+      label: "নোট"
+      description: "নিজের অংশের সাথে রাখা একটি নোট।"
+
+th:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "ประกอบได้"
+  page_icon: ph:bold/layout
+  hint: "ชี้ที่พื้นที่เพื่อเปิดเมนู: แบ่ง ปิด เปลี่ยนสิ่งที่แสดง"
+  widget:
+    color:
+      label: "สี"
+      description: "บอกกระดานถึงสีที่กด"
+    swatch:
+      label: "ตัวอย่างสี"
+      description: "แสดงสีล่าสุดที่บอกกระดาน"
+    note:
+      label: "บันทึก"
+      description: "บันทึกที่เก็บไว้กับพื้นที่"
+
+de:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "Zusammenstellbar"
+  page_icon: ph:bold/layout
+  hint: "Zeigen Sie auf einen Bereich für sein Menü: teilen, schließen, ändern, was er zeigt."
+  widget:
+    color:
+      label: "Farben"
+      description: "Sagt dem Board die gedrückte Farbe."
+    swatch:
+      label: "Farbfeld"
+      description: "Zeigt die letzte dem Board gesagte Farbe."
+    note:
+      label: "Notiz"
+      description: "Eine Notiz, die mit ihrem Bereich gespeichert wird."
+
+fi:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "Koottava"
+  page_icon: ph:bold/layout
+  hint: "Osoita aluetta avataksesi sen valikon: jaa, sulje, vaihda sen sisältö."
+  widget:
+    color:
+      label: "Värit"
+      description: "Kertoo taululle painetun värin."
+    swatch:
+      label: "Värimalli"
+      description: "Näyttää viimeisimmän taululle kerrotun värin."
+    note:
+      label: "Muistiinpano"
+      description: "Alueensa kanssa tallennettu muistiinpano."
+
+ru:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "Компонуемый"
+  page_icon: ph:bold/layout
+  hint: "Наведите на зону, чтобы открыть её меню: разделить, закрыть, сменить содержимое."
+  widget:
+    color:
+      label: "Цвета"
+      description: "Сообщает доске нажатый цвет."
+    swatch:
+      label: "Образец"
+      description: "Показывает последний цвет, сообщённый доске."
+    note:
+      label: "Заметка"
+      description: "Заметка, сохраняемая вместе с зоной."
+
+pl:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "Komponowalny"
+  page_icon: ph:bold/layout
+  hint: "Najedź na strefę, by otworzyć jej menu: podziel, zamknij, zmień zawartość."
+  widget:
+    color:
+      label: "Kolory"
+      description: "Przekazuje tablicy wciśnięty kolor."
+    swatch:
+      label: "Próbka"
+      description: "Pokazuje ostatni kolor przekazany tablicy."
+    note:
+      label: "Notatka"
+      description: "Notatka zapisywana razem ze strefą."
+
+es:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "Componible"
+  page_icon: ph:bold/layout
+  hint: "Pase el puntero sobre una zona para su menú: dividirla, cerrarla, cambiar lo que muestra."
+  widget:
+    color:
+      label: "Colores"
+      description: "Dice al tablero el color pulsado."
+    swatch:
+      label: "Muestra"
+      description: "Muestra el último color dicho al tablero."
+    note:
+      label: "Nota"
+      description: "Una nota guardada con su zona."
+
+it:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "Componibile"
+  page_icon: ph:bold/layout
+  hint: "Passa sopra una zona per il suo menu: dividerla, chiuderla, cambiare ciò che mostra."
+  widget:
+    color:
+      label: "Colori"
+      description: "Comunica alla bacheca il colore premuto."
+    swatch:
+      label: "Campione"
+      description: "Mostra l’ultimo colore comunicato alla bacheca."
+    note:
+      label: "Nota"
+      description: "Una nota conservata con la sua zona."
+
+pt_BR:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "Componível"
+  page_icon: ph:bold/layout
+  hint: "Aponte para uma zona para ver o menu: dividir, fechar, trocar o que ela mostra."
+  widget:
+    color:
+      label: "Cores"
+      description: "Informa ao painel a cor pressionada."
+    swatch:
+      label: "Amostra"
+      description: "Mostra a última cor informada ao painel."
+    note:
+      label: "Nota"
+      description: "Uma nota guardada com sua zona."
+
+tr:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "Birleştirilebilir"
+  page_icon: ph:bold/layout
+  hint: "Menüsü için bir alanın üzerine gelin: bölün, kapatın, gösterdiğini değiştirin."
+  widget:
+    color:
+      label: "Renkler"
+      description: "Basılan rengi panoya bildirir."
+    swatch:
+      label: "Örnek"
+      description: "Panoya bildirilen son rengi gösterir."
+    note:
+      label: "Not"
+      description: "Alanıyla birlikte saklanan bir not."
+
+vi:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "Có thể ghép"
+  page_icon: ph:bold/layout
+  hint: "Trỏ vào một vùng để mở menu: chia, đóng, đổi nội dung hiển thị."
+  widget:
+    color:
+      label: "Màu sắc"
+      description: "Báo cho bảng màu vừa nhấn."
+    swatch:
+      label: "Mẫu màu"
+      description: "Hiển thị màu cuối cùng được báo cho bảng."
+    note:
+      label: "Ghi chú"
+      description: "Ghi chú được lưu cùng vùng của nó."
+
+id:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "Dapat disusun"
+  page_icon: ph:bold/layout
+  hint: "Arahkan ke zona untuk menunya: bagi, tutup, ganti isinya."
+  widget:
+    color:
+      label: "Warna"
+      description: "Memberi tahu papan warna yang ditekan."
+    swatch:
+      label: "Contoh warna"
+      description: "Menampilkan warna terakhir yang diberitahukan ke papan."
+    note:
+      label: "Catatan"
+      description: "Catatan yang disimpan bersama zonanya."
+
+nl:
+  ~extends: "@WexampleSymfonyLoaderBundle.config.design_system.app.index"
+
+  page_title: "Samenstelbaar"
+  page_icon: ph:bold/layout
+  hint: "Wijs een zone aan voor het menu: splitsen, sluiten, wijzigen wat ze toont."
+  widget:
+    color:
+      label: "Kleuren"
+      description: "Vertelt het bord welke kleur is ingedrukt."
+    swatch:
+      label: "Staal"
+      description: "Toont de laatste kleur die het bord kreeg."
+    note:
+      label: "Notitie"
+      description: "Een notitie die met haar zone wordt bewaard."

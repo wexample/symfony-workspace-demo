@@ -1,0 +1,7 @@
+{%- extends '@WexampleSymfonyDesignSystemBundle/components/_abstract/vue/vue.vue.twig' -%}
+
+{%- block vue_body -%}
+    <div class="demo-widget-note">
+        <textarea class="form--textarea demo-widget-note--text" :value="config.text || ''" @input="onInput"></textarea>
+    </div>
+{%- endblock -%}

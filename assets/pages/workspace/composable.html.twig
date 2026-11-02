@@ -1,0 +1,34 @@
+{%- extends '@WexampleSymfonyWorkspaceDemoBundle/pages/workspace/layout/layout-workspace.html.twig' -%}
+{%- import '@WexampleSymfonyWorkspaceDemoBundle/partials/nav.html.twig' as nav -%}
+
+{%- set page_body_mode = 'wide' -%}
+
+{%- block page_body_container -%}
+    {#- What the page offers before the visitor arranges anything: colours
+        beside what they are told, a note under it. Every zone is cut again,
+        sized, given another widget from its menu; the arrangement is kept. -#}
+    {%- set default_layout = {
+        id: 'root', split: 'h', size: 1, children: [
+            { id: 'colors', size: 1, widget: 'demo-color' },
+            { id: 'side', split: 'v', size: 1, children: [
+                { id: 'swatch', size: 1, widget: 'demo-swatch' },
+                { id: 'note', size: 1, widget: 'demo-note' },
+            ] },
+        ],
+    } -%}
+    <div class="zone zone--split">
+        {{ nav.layouts(render_pass, 'composable') }}
+        <div class="zone zone--split zone--split--vertical">
+            <div class="zone zone--narrow zone--panel toolbar toolbar--shaded toolbar--compact">
+                <h1 class="toolbar--title">{{ page_title|default(null) ?: '@page::page_title'|trans }}</h1>
+                <span class="text-secondary">{{ '@page::hint' | trans }}</span>
+            </div>
+            <div class="zone">
+                {{ vue(render_pass, '@WexampleSymfonyWorkspaceBundle/components/workspace-board', workspace_board('demo-composable', {
+                    widgets: ['demo-color', 'demo-swatch', 'demo-note'],
+                    layout: default_layout,
+                })) }}
+            </div>
+        </div>
+    </div>
+{%- endblock -%}

@@ -8,6 +8,7 @@ en:
     columns: Five columns
     dashboard: Dashboard
     slides: Slide editor
+    composable: "Composable"
 
 ar:
   nav:
@@ -18,6 +19,7 @@ ar:
     columns: خمسة أعمدة
     dashboard: لوحة المعلومات
     slides: محرر الشرائح
+    composable: "قابل للتركيب"
 
 bn:
   nav:
@@ -28,6 +30,7 @@ bn:
     columns: পাঁচটি কলাম
     dashboard: ড্যাশবোর্ড
     slides: স্লাইড সম্পাদক
+    composable: "সংযোজ্য"
 
 de:
   nav:
@@ -38,6 +41,7 @@ de:
     columns: Fünf Spalten
     dashboard: Dashboard
     slides: Folien-Editor
+    composable: "Zusammenstellbar"
 
 es:
   nav:
@@ -48,6 +52,7 @@ es:
     columns: Cinco columnas
     dashboard: Tablero
     slides: Editor de diapositivas
+    composable: "Componible"
 
 fa:
   nav:
@@ -58,6 +63,7 @@ fa:
     columns: پنج ستون
     dashboard: داشبورد
     slides: ویرایشگر اسلاید
+    composable: "ترکیب‌پذیر"
 
 fi:
   nav:
@@ -68,6 +74,7 @@ fi:
     columns: Viisi saraketta
     dashboard: Ohjaamo
     slides: Diaeditori
+    composable: "Koottava"
 
 fr:
   nav:
@@ -78,6 +85,7 @@ fr:
     columns: Cinq colonnes
     dashboard: Tableau de bord
     slides: Éditeur de diapositives
+    composable: "Composable"
 
 he:
   nav:
@@ -88,6 +96,7 @@ he:
     columns: חמישה עמודים
     dashboard: לוח מחוונים
     slides: עורך שקופיות
+    composable: "ניתן להרכבה"
 
 hi:
   nav:
@@ -98,6 +107,7 @@ hi:
     columns: पांच कॉलम
     dashboard: डैशबोर्ड
     slides: स्लाइड संपादक
+    composable: "संयोज्य"
 
 id:
   nav:
@@ -108,6 +118,7 @@ id:
     columns: Lima kolom
     dashboard: Dasbor
     slides: Editor slide
+    composable: "Dapat disusun"
 
 it:
   nav:
@@ -118,6 +129,7 @@ it:
     columns: Cinque colonne
     dashboard: Cruscotto
     slides: Editor di diapositive
+    composable: "Componibile"
 
 ja:
   nav:
@@ -128,6 +140,7 @@ ja:
     columns: 5カラム
     dashboard: ダッシュボード
     slides: スライドエディター
+    composable: "コンポーザブル"
 
 ko:
   nav:
@@ -138,6 +151,7 @@ ko:
     columns: 다섯 개 열
     dashboard: 대시보드
     slides: 슬라이드 편집기
+    composable: "조합형"
 
 nl:
   nav:
@@ -148,6 +162,7 @@ nl:
     columns: Vijf kolommen
     dashboard: Dashboard
     slides: Dia-editor
+    composable: "Samenstelbaar"
 
 pl:
   nav:
@@ -158,6 +173,7 @@ pl:
     columns: Pięć kolumn
     dashboard: Panel sterowania
     slides: Edytor slajdów
+    composable: "Komponowalny"
 
 pt_BR:
   nav:
@@ -168,6 +184,7 @@ pt_BR:
     columns: Cinco colunas
     dashboard: Painel
     slides: Editor de slides
+    composable: "Componível"
 
 ru:
   nav:
@@ -178,6 +195,7 @@ ru:
     columns: Пять колонок
     dashboard: Панель управления
     slides: Редактор слайдов
+    composable: "Компонуемый"
 
 th:
   nav:
@@ -188,6 +206,7 @@ th:
     columns: ห้าคอลัมน์
     dashboard: แดชบอร์ด
     slides: ตัวแก้ไขสไลด์
+    composable: "ประกอบได้"
 
 tr:
   nav:
@@ -198,6 +217,7 @@ tr:
     columns: Beş sütun
     dashboard: Gösterge Paneli
     slides: Slayt düzenleyici
+    composable: "Birleştirilebilir"
 
 ur:
   nav:
@@ -208,6 +228,7 @@ ur:
     columns: پانچ کالم
     dashboard: ڈیش بورڈ
     slides: سلائیڈ ایڈیٹر
+    composable: "قابلِ ترتیب"
 
 vi:
   nav:
@@ -218,6 +239,7 @@ vi:
     columns: Năm cột
     dashboard: Bảng điều khiển
     slides: Trình chỉnh sửa trang chiếu
+    composable: "Có thể ghép"
 
 zh:
   nav:
@@ -228,3 +250,4 @@ zh:
     columns: 五列
     dashboard: 仪表板
     slides: 幻灯片编辑器
+    composable: "可组合"

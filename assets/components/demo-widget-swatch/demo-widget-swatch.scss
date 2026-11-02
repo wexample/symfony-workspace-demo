@@ -1,0 +1,13 @@
+.demo-widget-swatch {
+  display: grid;
+  place-items: center;
+  height: 100%;
+  transition: background 200ms ease;
+}
+
+.demo-widget-swatch--value {
+  padding: var(--space-1) var(--space-2);
+  border-radius: var(--radius-control);
+  background: var(--surface-zone);
+  font-family: var(--font-family-mono);
+}

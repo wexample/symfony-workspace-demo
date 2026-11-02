@@ -1,0 +1,7 @@
+{%- extends '@WexampleSymfonyDesignSystemBundle/components/_abstract/vue/vue.vue.twig' -%}
+
+{%- block vue_body -%}
+    <div class="demo-widget-swatch" :style="{ background: config.color || 'transparent' }">
+        <span class="demo-widget-swatch--value">[[ config.color || '—' ]]</span>
+    </div>
+{%- endblock -%}
