@@ -1,6 +1,6 @@
 # symfony-workspace-demo
 
-Version: 2.1.4
+Version: 2.1.5
 
 Demo pages of symfony-workspace
 
